@@ -1,0 +1,1401 @@
+vehicle_id,vehicle_type,capacity,maintenance_date,downtime_hours,breakdown_count,availability_status,is_aging_fleet
+VEH_0001,32ft Multi-Axle Truck,18000,2024-08-11,2.0,0,Active,0
+VEH_0002,32ft Multi-Axle Truck,18000,2024-06-10,2.0,0,Active,0
+VEH_0003,32ft Multi-Axle Truck,18000,2024-04-08,20.6,1,Active,0
+VEH_0004,32ft Multi-Axle Truck,18000,2024-10-18,49.2,2,Maintenance,0
+VEH_0005,32ft Multi-Axle Truck,18000,2024-04-17,94.2,7,Breakdown,1
+VEH_0006,32ft Multi-Axle Truck,18000,2024-06-27,2.0,0,Active,0
+VEH_0007,32ft Multi-Axle Truck,18000,2024-01-12,2.0,0,Active,0
+VEH_0008,32ft Multi-Axle Truck,18000,2024-03-30,2.0,0,Active,0
+VEH_0009,32ft Multi-Axle Truck,18000,2024-10-28,37.0,3,Active,0
+VEH_0010,32ft Multi-Axle Truck,18000,2024-04-18,103.8,6,Breakdown,1
+VEH_0011,32ft Multi-Axle Truck,18000,2024-03-01,60.8,3,Maintenance,0
+VEH_0012,32ft Multi-Axle Truck,18000,2024-06-15,2.0,0,Active,0
+VEH_0013,32ft Multi-Axle Truck,18000,2024-08-11,2.0,0,Active,0
+VEH_0014,32ft Multi-Axle Truck,18000,2024-10-06,19.5,1,Active,0
+VEH_0015,32ft Multi-Axle Truck,18000,2024-09-03,59.1,2,Maintenance,1
+VEH_0016,32ft Multi-Axle Truck,18000,2024-07-28,24.6,1,Active,0
+VEH_0017,32ft Multi-Axle Truck,18000,2024-03-08,16.7,1,Active,0
+VEH_0018,32ft Multi-Axle Truck,18000,2024-07-12,23.8,1,Active,0
+VEH_0019,32ft Multi-Axle Truck,18000,2024-10-01,28.4,2,Active,0
+VEH_0020,32ft Multi-Axle Truck,18000,2024-06-16,88.4,8,Breakdown,1
+VEH_0021,32ft Multi-Axle Truck,18000,2024-02-05,22.0,1,Active,0
+VEH_0022,32ft Multi-Axle Truck,18000,2024-07-07,16.6,1,Active,0
+VEH_0023,32ft Multi-Axle Truck,18000,2024-09-24,2.0,0,Active,0
+VEH_0024,32ft Multi-Axle Truck,18000,2024-03-02,22.5,1,Active,0
+VEH_0025,32ft Multi-Axle Truck,18000,2024-07-02,46.4,2,Maintenance,1
+VEH_0026,32ft Multi-Axle Truck,18000,2024-11-23,2.0,0,Active,0
+VEH_0027,32ft Multi-Axle Truck,18000,2024-07-18,10.1,1,Active,0
+VEH_0028,32ft Multi-Axle Truck,18000,2024-11-15,2.0,0,Active,0
+VEH_0029,32ft Multi-Axle Truck,18000,2024-11-04,2.0,0,Active,0
+VEH_0030,32ft Multi-Axle Truck,18000,2024-03-13,75.7,3,Maintenance,1
+VEH_0031,32ft Multi-Axle Truck,18000,2024-06-01,41.0,2,Maintenance,0
+VEH_0032,32ft Multi-Axle Truck,18000,2024-08-04,23.7,1,Active,0
+VEH_0033,32ft Multi-Axle Truck,18000,2024-07-05,20.8,2,Active,0
+VEH_0034,32ft Multi-Axle Truck,18000,2024-10-10,17.7,1,Active,0
+VEH_0035,32ft Multi-Axle Truck,18000,2024-03-02,67.0,3,Maintenance,1
+VEH_0036,32ft Multi-Axle Truck,18000,2024-08-21,23.8,1,Active,0
+VEH_0037,32ft Multi-Axle Truck,18000,2024-10-22,2.0,0,Active,0
+VEH_0038,32ft Multi-Axle Truck,18000,2024-02-08,2.0,0,Active,0
+VEH_0039,32ft Multi-Axle Truck,18000,2024-02-08,2.0,0,Active,0
+VEH_0040,32ft Multi-Axle Truck,18000,2024-08-25,41.4,3,Maintenance,1
+VEH_0041,32ft Multi-Axle Truck,18000,2024-08-09,12.1,1,Active,0
+VEH_0042,32ft Multi-Axle Truck,18000,2024-10-24,2.0,0,Active,0
+VEH_0043,32ft Multi-Axle Truck,18000,2024-06-13,26.9,2,Active,0
+VEH_0044,32ft Multi-Axle Truck,18000,2024-04-20,2.0,0,Active,0
+VEH_0045,32ft Multi-Axle Truck,18000,2024-11-16,88.1,4,Maintenance,1
+VEH_0046,32ft Multi-Axle Truck,18000,2024-06-21,2.0,0,Active,0
+VEH_0047,32ft Multi-Axle Truck,18000,2024-03-10,17.1,1,Active,0
+VEH_0048,32ft Multi-Axle Truck,18000,2024-11-30,2.0,0,Active,0
+VEH_0049,32ft Multi-Axle Truck,18000,2024-01-10,2.0,0,Active,0
+VEH_0050,32ft Multi-Axle Truck,18000,2024-08-19,66.0,5,Breakdown,1
+VEH_0051,32ft Multi-Axle Truck,18000,2024-12-18,2.0,0,Active,0
+VEH_0052,32ft Multi-Axle Truck,18000,2024-09-11,48.3,2,Maintenance,0
+VEH_0053,32ft Multi-Axle Truck,18000,2024-07-13,18.8,1,Active,0
+VEH_0054,32ft Multi-Axle Truck,18000,2024-10-07,2.0,0,Active,0
+VEH_0055,32ft Multi-Axle Truck,18000,2024-10-10,48.3,4,Maintenance,1
+VEH_0056,32ft Multi-Axle Truck,18000,2024-10-20,2.0,0,Active,0
+VEH_0057,32ft Multi-Axle Truck,18000,2024-02-08,30.7,3,Active,0
+VEH_0058,32ft Multi-Axle Truck,18000,2024-07-09,2.0,0,Active,0
+VEH_0059,32ft Multi-Axle Truck,18000,2024-05-24,2.0,0,Active,0
+VEH_0060,32ft Multi-Axle Truck,18000,2024-05-24,79.6,5,Breakdown,1
+VEH_0061,32ft Multi-Axle Truck,18000,2024-02-18,2.0,0,Active,0
+VEH_0062,32ft Multi-Axle Truck,18000,2024-01-25,14.8,1,Active,0
+VEH_0063,32ft Multi-Axle Truck,18000,2024-03-05,2.0,0,Active,0
+VEH_0064,32ft Multi-Axle Truck,18000,2024-02-08,2.0,0,Active,0
+VEH_0065,32ft Multi-Axle Truck,18000,2024-12-11,43.5,3,Maintenance,1
+VEH_0066,32ft Multi-Axle Truck,18000,2024-08-08,20.5,1,Active,0
+VEH_0067,32ft Multi-Axle Truck,18000,2024-02-29,73.1,3,Maintenance,0
+VEH_0068,32ft Multi-Axle Truck,18000,2024-09-13,25.1,1,Active,0
+VEH_0069,32ft Multi-Axle Truck,18000,2024-10-13,2.0,0,Active,0
+VEH_0070,32ft Multi-Axle Truck,18000,2024-05-08,110.9,5,Breakdown,1
+VEH_0071,32ft Multi-Axle Truck,18000,2024-03-22,2.0,0,Active,0
+VEH_0072,32ft Multi-Axle Truck,18000,2024-10-04,18.5,1,Active,0
+VEH_0073,32ft Multi-Axle Truck,18000,2024-01-19,25.6,2,Active,0
+VEH_0074,32ft Multi-Axle Truck,18000,2024-07-22,17.3,1,Active,0
+VEH_0075,32ft Multi-Axle Truck,18000,2024-03-10,76.9,4,Maintenance,1
+VEH_0076,32ft Multi-Axle Truck,18000,2024-05-19,23.6,1,Active,0
+VEH_0077,32ft Multi-Axle Truck,18000,2024-07-26,16.3,1,Active,0
+VEH_0078,32ft Multi-Axle Truck,18000,2024-03-10,2.0,0,Active,0
+VEH_0079,32ft Multi-Axle Truck,18000,2024-05-17,27.2,2,Active,0
+VEH_0080,32ft Multi-Axle Truck,18000,2024-04-10,79.2,3,Maintenance,1
+VEH_0081,32ft Multi-Axle Truck,18000,2024-07-25,2.0,0,Active,0
+VEH_0082,32ft Multi-Axle Truck,18000,2024-03-06,2.0,0,Active,0
+VEH_0083,32ft Multi-Axle Truck,18000,2024-03-31,2.0,0,Active,0
+VEH_0084,32ft Multi-Axle Truck,18000,2024-04-26,2.0,0,Active,0
+VEH_0085,32ft Multi-Axle Truck,18000,2024-07-01,95.9,6,Breakdown,1
+VEH_0086,32ft Multi-Axle Truck,18000,2024-08-05,17.2,1,Active,0
+VEH_0087,32ft Multi-Axle Truck,18000,2024-06-21,25.6,1,Active,0
+VEH_0088,32ft Multi-Axle Truck,18000,2024-12-05,40.3,2,Maintenance,0
+VEH_0089,32ft Multi-Axle Truck,18000,2024-03-30,2.0,0,Active,0
+VEH_0090,32ft Multi-Axle Truck,18000,2024-10-02,129.5,5,Breakdown,1
+VEH_0091,32ft Multi-Axle Truck,18000,2024-02-29,14.8,1,Active,0
+VEH_0092,32ft Multi-Axle Truck,18000,2024-05-07,10.4,1,Active,0
+VEH_0093,32ft Multi-Axle Truck,18000,2024-02-26,2.0,0,Active,0
+VEH_0094,32ft Multi-Axle Truck,18000,2024-04-06,61.5,3,Maintenance,0
+VEH_0095,32ft Multi-Axle Truck,18000,2024-02-20,35.0,1,Active,1
+VEH_0096,32ft Multi-Axle Truck,18000,2024-08-03,2.0,0,Active,0
+VEH_0097,32ft Multi-Axle Truck,18000,2024-06-27,23.8,2,Active,0
+VEH_0098,32ft Multi-Axle Truck,18000,2024-09-10,2.0,0,Active,0
+VEH_0099,32ft Multi-Axle Truck,18000,2024-10-14,18.2,1,Active,0
+VEH_0100,32ft Multi-Axle Truck,18000,2024-08-09,118.2,5,Breakdown,1
+VEH_0101,32ft Multi-Axle Truck,18000,2024-07-19,2.0,0,Active,0
+VEH_0102,32ft Multi-Axle Truck,18000,2024-01-25,30.1,2,Active,0
+VEH_0103,32ft Multi-Axle Truck,18000,2024-04-16,18.5,1,Active,0
+VEH_0104,32ft Multi-Axle Truck,18000,2024-09-18,25.9,1,Active,0
+VEH_0105,32ft Multi-Axle Truck,18000,2024-03-06,58.7,4,Maintenance,1
+VEH_0106,32ft Multi-Axle Truck,18000,2024-05-13,2.0,0,Active,0
+VEH_0107,32ft Multi-Axle Truck,18000,2024-03-06,22.8,1,Active,0
+VEH_0108,32ft Multi-Axle Truck,18000,2024-01-30,45.9,2,Maintenance,0
+VEH_0109,32ft Multi-Axle Truck,18000,2024-08-27,2.0,0,Active,0
+VEH_0110,32ft Multi-Axle Truck,18000,2024-11-18,49.8,2,Maintenance,1
+VEH_0111,32ft Multi-Axle Truck,18000,2024-09-22,23.9,1,Active,0
+VEH_0112,32ft Multi-Axle Truck,18000,2024-09-20,13.9,1,Active,0
+VEH_0113,32ft Multi-Axle Truck,18000,2024-06-29,2.0,0,Active,0
+VEH_0114,32ft Multi-Axle Truck,18000,2024-04-05,21.4,1,Active,0
+VEH_0115,32ft Multi-Axle Truck,18000,2024-05-11,96.3,5,Breakdown,1
+VEH_0116,32ft Multi-Axle Truck,18000,2024-10-28,2.0,0,Active,0
+VEH_0117,32ft Multi-Axle Truck,18000,2024-06-12,2.0,0,Active,0
+VEH_0118,32ft Multi-Axle Truck,18000,2024-10-05,2.0,0,Active,0
+VEH_0119,32ft Multi-Axle Truck,18000,2024-02-12,2.0,0,Active,0
+VEH_0120,32ft Multi-Axle Truck,18000,2024-09-19,75.2,6,Breakdown,1
+VEH_0121,32ft Multi-Axle Truck,18000,2024-07-02,2.0,0,Active,0
+VEH_0122,32ft Multi-Axle Truck,18000,2024-06-23,2.0,0,Active,0
+VEH_0123,32ft Multi-Axle Truck,18000,2024-11-07,2.0,0,Active,0
+VEH_0124,32ft Multi-Axle Truck,18000,2024-08-05,2.0,0,Active,0
+VEH_0125,32ft Multi-Axle Truck,18000,2024-05-03,57.7,4,Maintenance,1
+VEH_0126,32ft Multi-Axle Truck,18000,2024-09-30,36.4,2,Active,0
+VEH_0127,32ft Multi-Axle Truck,18000,2024-10-19,2.0,0,Active,0
+VEH_0128,32ft Multi-Axle Truck,18000,2024-06-02,2.0,0,Active,0
+VEH_0129,32ft Multi-Axle Truck,18000,2024-09-19,2.0,0,Active,0
+VEH_0130,32ft Multi-Axle Truck,18000,2024-01-02,36.6,2,Active,1
+VEH_0131,32ft Multi-Axle Truck,18000,2024-04-11,19.5,1,Active,0
+VEH_0132,32ft Multi-Axle Truck,18000,2024-04-15,2.0,0,Active,0
+VEH_0133,32ft Multi-Axle Truck,18000,2024-04-25,25.1,1,Active,0
+VEH_0134,32ft Multi-Axle Truck,18000,2024-07-21,2.0,0,Active,0
+VEH_0135,32ft Multi-Axle Truck,18000,2024-09-23,120.7,5,Breakdown,1
+VEH_0136,32ft Multi-Axle Truck,18000,2024-07-10,25.4,1,Active,0
+VEH_0137,32ft Multi-Axle Truck,18000,2024-10-04,2.0,0,Active,0
+VEH_0138,32ft Multi-Axle Truck,18000,2024-10-28,18.4,1,Active,0
+VEH_0139,32ft Multi-Axle Truck,18000,2024-10-01,2.0,0,Active,0
+VEH_0140,32ft Multi-Axle Truck,18000,2024-01-21,100.3,5,Breakdown,1
+VEH_0141,32ft Multi-Axle Truck,18000,2024-05-17,2.0,0,Active,0
+VEH_0142,32ft Multi-Axle Truck,18000,2024-08-06,2.0,0,Active,0
+VEH_0143,32ft Multi-Axle Truck,18000,2024-12-29,46.5,2,Maintenance,0
+VEH_0144,32ft Multi-Axle Truck,18000,2024-10-13,2.0,0,Active,0
+VEH_0145,32ft Multi-Axle Truck,18000,2024-11-29,48.5,3,Maintenance,1
+VEH_0146,32ft Multi-Axle Truck,18000,2024-03-18,2.0,0,Active,0
+VEH_0147,32ft Multi-Axle Truck,18000,2024-07-07,2.0,0,Active,0
+VEH_0148,32ft Multi-Axle Truck,18000,2024-08-26,12.1,1,Active,0
+VEH_0149,32ft Multi-Axle Truck,18000,2024-03-03,2.0,0,Active,0
+VEH_0150,32ft Multi-Axle Truck,18000,2024-02-23,53.9,2,Maintenance,1
+VEH_0151,32ft Multi-Axle Truck,18000,2024-08-29,23.2,1,Active,0
+VEH_0152,32ft Multi-Axle Truck,18000,2024-12-21,20.1,1,Active,0
+VEH_0153,32ft Multi-Axle Truck,18000,2024-01-09,2.0,0,Active,0
+VEH_0154,32ft Multi-Axle Truck,18000,2024-10-20,2.0,0,Active,0
+VEH_0155,32ft Multi-Axle Truck,18000,2024-07-19,61.2,5,Breakdown,1
+VEH_0156,32ft Multi-Axle Truck,18000,2024-11-27,2.0,0,Active,0
+VEH_0157,32ft Multi-Axle Truck,18000,2024-12-03,2.0,0,Active,0
+VEH_0158,32ft Multi-Axle Truck,18000,2024-11-22,22.5,1,Active,0
+VEH_0159,32ft Multi-Axle Truck,18000,2024-12-15,12.5,1,Active,0
+VEH_0160,32ft Multi-Axle Truck,18000,2024-01-31,78.3,5,Breakdown,1
+VEH_0161,32ft Multi-Axle Truck,18000,2024-04-23,43.5,2,Maintenance,0
+VEH_0162,32ft Multi-Axle Truck,18000,2024-05-31,18.4,1,Active,0
+VEH_0163,32ft Multi-Axle Truck,18000,2024-02-13,2.0,0,Active,0
+VEH_0164,32ft Multi-Axle Truck,18000,2024-08-17,17.0,1,Active,0
+VEH_0165,32ft Multi-Axle Truck,18000,2024-09-19,39.2,2,Active,1
+VEH_0166,32ft Multi-Axle Truck,18000,2024-03-29,11.8,1,Active,0
+VEH_0167,32ft Multi-Axle Truck,18000,2024-06-13,10.9,1,Active,0
+VEH_0168,32ft Multi-Axle Truck,18000,2024-11-10,2.0,0,Active,0
+VEH_0169,32ft Multi-Axle Truck,18000,2024-12-19,13.1,1,Active,0
+VEH_0170,32ft Multi-Axle Truck,18000,2024-03-12,120.2,5,Breakdown,1
+VEH_0171,32ft Multi-Axle Truck,18000,2024-08-02,18.3,1,Active,0
+VEH_0172,32ft Multi-Axle Truck,18000,2024-12-16,2.0,0,Active,0
+VEH_0173,32ft Multi-Axle Truck,18000,2024-03-07,47.1,2,Maintenance,0
+VEH_0174,32ft Multi-Axle Truck,18000,2024-01-21,20.4,1,Active,0
+VEH_0175,32ft Multi-Axle Truck,18000,2024-08-09,88.1,5,Breakdown,1
+VEH_0176,32ft Multi-Axle Truck,18000,2024-07-04,15.9,1,Active,0
+VEH_0177,32ft Multi-Axle Truck,18000,2024-09-07,25.6,1,Active,0
+VEH_0178,32ft Multi-Axle Truck,18000,2024-03-14,22.5,1,Active,0
+VEH_0179,32ft Multi-Axle Truck,18000,2024-12-12,19.0,1,Active,0
+VEH_0180,32ft Multi-Axle Truck,18000,2024-02-04,34.0,1,Active,1
+VEH_0181,32ft Multi-Axle Truck,18000,2024-06-08,31.3,3,Active,0
+VEH_0182,32ft Multi-Axle Truck,18000,2024-10-08,33.0,2,Active,0
+VEH_0183,32ft Multi-Axle Truck,18000,2024-09-09,2.0,0,Active,0
+VEH_0184,32ft Multi-Axle Truck,18000,2024-05-25,34.8,2,Active,0
+VEH_0185,32ft Multi-Axle Truck,18000,2024-03-31,49.0,3,Maintenance,1
+VEH_0186,32ft Multi-Axle Truck,18000,2024-01-04,35.8,2,Active,0
+VEH_0187,32ft Multi-Axle Truck,18000,2024-03-10,20.8,1,Active,0
+VEH_0188,32ft Multi-Axle Truck,18000,2024-08-29,2.0,0,Active,0
+VEH_0189,32ft Multi-Axle Truck,18000,2024-11-10,20.0,1,Active,0
+VEH_0190,32ft Multi-Axle Truck,18000,2024-09-25,98.0,4,Maintenance,1
+VEH_0191,32ft Multi-Axle Truck,18000,2024-05-10,2.0,0,Active,0
+VEH_0192,32ft Multi-Axle Truck,18000,2024-03-18,2.0,0,Active,0
+VEH_0193,32ft Multi-Axle Truck,18000,2024-09-24,25.5,1,Active,0
+VEH_0194,32ft Multi-Axle Truck,18000,2024-02-24,16.2,1,Active,0
+VEH_0195,32ft Multi-Axle Truck,18000,2024-11-22,61.1,3,Maintenance,1
+VEH_0196,32ft Multi-Axle Truck,18000,2024-07-25,33.1,2,Active,0
+VEH_0197,32ft Multi-Axle Truck,18000,2024-04-23,2.0,0,Active,0
+VEH_0198,32ft Multi-Axle Truck,18000,2024-02-16,19.9,1,Active,0
+VEH_0199,32ft Multi-Axle Truck,18000,2024-12-29,2.0,0,Active,0
+VEH_0200,32ft Multi-Axle Truck,18000,2024-11-24,47.5,2,Maintenance,1
+VEH_0201,32ft Multi-Axle Truck,18000,2024-10-03,16.6,1,Active,0
+VEH_0202,32ft Multi-Axle Truck,18000,2024-09-02,2.0,0,Active,0
+VEH_0203,32ft Multi-Axle Truck,18000,2024-10-08,21.7,1,Active,0
+VEH_0204,32ft Multi-Axle Truck,18000,2024-05-31,2.0,0,Active,0
+VEH_0205,32ft Multi-Axle Truck,18000,2024-01-14,63.7,4,Maintenance,1
+VEH_0206,32ft Multi-Axle Truck,18000,2024-03-11,12.0,1,Active,0
+VEH_0207,32ft Multi-Axle Truck,18000,2024-11-22,18.5,2,Active,0
+VEH_0208,32ft Multi-Axle Truck,18000,2024-09-20,2.0,0,Active,0
+VEH_0209,32ft Multi-Axle Truck,18000,2024-04-26,2.0,0,Active,0
+VEH_0210,32ft Multi-Axle Truck,18000,2024-09-16,31.9,2,Active,1
+VEH_0211,32ft Multi-Axle Truck,18000,2024-09-11,13.6,1,Active,0
+VEH_0212,32ft Multi-Axle Truck,18000,2024-09-05,2.0,0,Active,0
+VEH_0213,32ft Multi-Axle Truck,18000,2024-11-25,11.2,1,Active,0
+VEH_0214,32ft Multi-Axle Truck,18000,2024-06-04,14.6,1,Active,0
+VEH_0215,32ft Multi-Axle Truck,18000,2024-03-28,15.0,0,Active,1
+VEH_0216,32ft Multi-Axle Truck,18000,2024-02-17,2.0,0,Active,0
+VEH_0217,32ft Multi-Axle Truck,18000,2024-03-26,2.0,0,Active,0
+VEH_0218,32ft Multi-Axle Truck,18000,2024-02-26,2.0,0,Active,0
+VEH_0219,32ft Multi-Axle Truck,18000,2024-09-29,2.0,0,Active,0
+VEH_0220,32ft Multi-Axle Truck,18000,2024-06-25,38.1,1,Active,1
+VEH_0221,32ft Multi-Axle Truck,18000,2024-08-09,2.0,0,Active,0
+VEH_0222,32ft Multi-Axle Truck,18000,2024-05-20,15.4,1,Active,0
+VEH_0223,32ft Multi-Axle Truck,18000,2024-06-29,12.9,1,Active,0
+VEH_0224,32ft Multi-Axle Truck,18000,2024-09-26,2.0,0,Active,0
+VEH_0225,32ft Multi-Axle Truck,18000,2024-03-01,61.8,2,Maintenance,1
+VEH_0226,32ft Multi-Axle Truck,18000,2024-03-28,2.0,0,Active,0
+VEH_0227,32ft Multi-Axle Truck,18000,2024-01-28,64.4,3,Maintenance,0
+VEH_0228,32ft Multi-Axle Truck,18000,2024-01-06,94.7,4,Maintenance,0
+VEH_0229,32ft Multi-Axle Truck,18000,2024-09-03,31.5,2,Active,0
+VEH_0230,32ft Multi-Axle Truck,18000,2024-07-19,134.8,8,Breakdown,1
+VEH_0231,32ft Multi-Axle Truck,18000,2024-09-13,2.0,0,Active,0
+VEH_0232,32ft Multi-Axle Truck,18000,2024-07-18,32.0,2,Active,0
+VEH_0233,32ft Multi-Axle Truck,18000,2024-05-24,2.0,0,Active,0
+VEH_0234,32ft Multi-Axle Truck,18000,2024-10-11,25.7,1,Active,0
+VEH_0235,32ft Multi-Axle Truck,18000,2024-07-05,66.7,3,Maintenance,1
+VEH_0236,32ft Multi-Axle Truck,18000,2024-10-23,39.6,2,Active,0
+VEH_0237,32ft Multi-Axle Truck,18000,2024-03-21,12.6,1,Active,0
+VEH_0238,32ft Multi-Axle Truck,18000,2024-09-17,2.0,0,Active,0
+VEH_0239,32ft Multi-Axle Truck,18000,2024-02-04,43.2,3,Maintenance,0
+VEH_0240,32ft Multi-Axle Truck,18000,2024-03-03,75.6,4,Maintenance,1
+VEH_0241,32ft Multi-Axle Truck,18000,2024-12-01,2.0,0,Active,0
+VEH_0242,32ft Multi-Axle Truck,18000,2024-02-27,2.0,0,Active,0
+VEH_0243,32ft Multi-Axle Truck,18000,2024-11-10,42.2,2,Maintenance,0
+VEH_0244,32ft Multi-Axle Truck,18000,2024-11-12,2.0,0,Active,0
+VEH_0245,32ft Multi-Axle Truck,18000,2024-04-17,53.8,4,Maintenance,1
+VEH_0246,32ft Multi-Axle Truck,18000,2024-06-11,12.1,1,Active,0
+VEH_0247,32ft Multi-Axle Truck,18000,2024-07-21,2.0,0,Active,0
+VEH_0248,32ft Multi-Axle Truck,18000,2024-12-09,33.2,2,Active,0
+VEH_0249,32ft Multi-Axle Truck,18000,2024-01-31,21.2,1,Active,0
+VEH_0250,32ft Multi-Axle Truck,18000,2024-05-16,164.2,7,Breakdown,1
+VEH_0251,20ft Container Truck,9000,2024-08-02,55.2,3,Maintenance,0
+VEH_0252,20ft Container Truck,9000,2024-10-03,49.1,2,Maintenance,0
+VEH_0253,20ft Container Truck,9000,2024-07-06,2.0,0,Active,0
+VEH_0254,20ft Container Truck,9000,2024-01-18,10.3,1,Active,0
+VEH_0255,20ft Container Truck,9000,2024-05-18,96.7,4,Maintenance,1
+VEH_0256,20ft Container Truck,9000,2024-10-14,45.2,2,Maintenance,0
+VEH_0257,20ft Container Truck,9000,2024-12-05,2.0,0,Active,0
+VEH_0258,20ft Container Truck,9000,2024-07-26,2.0,0,Active,0
+VEH_0259,20ft Container Truck,9000,2024-03-17,21.3,2,Active,0
+VEH_0260,20ft Container Truck,9000,2024-06-21,127.7,5,Breakdown,1
+VEH_0261,20ft Container Truck,9000,2024-08-02,10.9,1,Active,0
+VEH_0262,20ft Container Truck,9000,2024-12-14,11.1,1,Active,0
+VEH_0263,20ft Container Truck,9000,2024-07-12,2.0,0,Active,0
+VEH_0264,20ft Container Truck,9000,2024-03-18,2.0,0,Active,0
+VEH_0265,20ft Container Truck,9000,2024-06-04,36.8,2,Active,1
+VEH_0266,20ft Container Truck,9000,2024-04-12,2.0,0,Active,0
+VEH_0267,20ft Container Truck,9000,2024-05-25,2.0,0,Active,0
+VEH_0268,20ft Container Truck,9000,2024-07-02,2.0,0,Active,0
+VEH_0269,20ft Container Truck,9000,2024-08-30,14.3,1,Active,0
+VEH_0270,20ft Container Truck,9000,2024-11-14,26.6,1,Active,1
+VEH_0271,20ft Container Truck,9000,2024-08-05,34.7,2,Active,0
+VEH_0272,20ft Container Truck,9000,2024-02-12,63.4,3,Maintenance,0
+VEH_0273,20ft Container Truck,9000,2024-07-04,2.0,0,Active,0
+VEH_0274,20ft Container Truck,9000,2024-07-02,41.0,3,Maintenance,0
+VEH_0275,20ft Container Truck,9000,2024-06-29,73.7,3,Maintenance,1
+VEH_0276,20ft Container Truck,9000,2024-06-09,2.0,0,Active,0
+VEH_0277,20ft Container Truck,9000,2024-08-14,19.0,2,Active,0
+VEH_0278,20ft Container Truck,9000,2024-05-13,19.8,1,Active,0
+VEH_0279,20ft Container Truck,9000,2024-04-27,13.2,1,Active,0
+VEH_0280,20ft Container Truck,9000,2024-05-02,64.0,3,Maintenance,1
+VEH_0281,20ft Container Truck,9000,2024-05-28,2.0,0,Active,0
+VEH_0282,20ft Container Truck,9000,2024-10-07,2.0,0,Active,0
+VEH_0283,20ft Container Truck,9000,2024-10-24,2.0,0,Active,0
+VEH_0284,20ft Container Truck,9000,2024-12-04,2.0,0,Active,0
+VEH_0285,20ft Container Truck,9000,2024-05-01,32.5,1,Active,1
+VEH_0286,20ft Container Truck,9000,2024-04-14,22.8,2,Active,0
+VEH_0287,20ft Container Truck,9000,2024-04-10,2.0,0,Active,0
+VEH_0288,20ft Container Truck,9000,2024-07-06,2.0,0,Active,0
+VEH_0289,20ft Container Truck,9000,2024-10-09,25.8,2,Active,0
+VEH_0290,20ft Container Truck,9000,2024-11-28,75.3,3,Maintenance,1
+VEH_0291,20ft Container Truck,9000,2024-03-10,12.9,1,Active,0
+VEH_0292,20ft Container Truck,9000,2024-02-13,16.6,1,Active,0
+VEH_0293,20ft Container Truck,9000,2024-02-13,33.6,2,Active,0
+VEH_0294,20ft Container Truck,9000,2024-10-07,12.6,1,Active,0
+VEH_0295,20ft Container Truck,9000,2024-11-05,69.3,3,Maintenance,1
+VEH_0296,20ft Container Truck,9000,2024-09-12,2.0,0,Active,0
+VEH_0297,20ft Container Truck,9000,2024-08-22,41.4,2,Maintenance,0
+VEH_0298,20ft Container Truck,9000,2024-05-10,32.7,2,Active,0
+VEH_0299,20ft Container Truck,9000,2024-11-07,11.8,1,Active,0
+VEH_0300,20ft Container Truck,9000,2024-11-18,137.7,6,Breakdown,1
+VEH_0301,20ft Container Truck,9000,2024-10-25,22.7,2,Active,0
+VEH_0302,20ft Container Truck,9000,2024-03-15,2.0,0,Active,0
+VEH_0303,20ft Container Truck,9000,2024-02-04,50.7,3,Maintenance,0
+VEH_0304,20ft Container Truck,9000,2024-08-27,47.2,2,Maintenance,0
+VEH_0305,20ft Container Truck,9000,2024-03-04,145.3,7,Breakdown,1
+VEH_0306,20ft Container Truck,9000,2024-10-29,2.0,0,Active,0
+VEH_0307,20ft Container Truck,9000,2024-08-30,23.2,1,Active,0
+VEH_0308,20ft Container Truck,9000,2024-02-03,2.0,0,Active,0
+VEH_0309,20ft Container Truck,9000,2024-10-06,24.1,1,Active,0
+VEH_0310,20ft Container Truck,9000,2024-09-15,74.0,3,Maintenance,1
+VEH_0311,20ft Container Truck,9000,2024-05-22,2.0,0,Active,0
+VEH_0312,20ft Container Truck,9000,2024-03-09,2.0,0,Active,0
+VEH_0313,20ft Container Truck,9000,2024-03-14,16.0,1,Active,0
+VEH_0314,20ft Container Truck,9000,2024-12-08,37.5,2,Active,0
+VEH_0315,20ft Container Truck,9000,2024-07-15,103.2,4,Maintenance,1
+VEH_0316,20ft Container Truck,9000,2024-12-18,38.5,2,Active,0
+VEH_0317,20ft Container Truck,9000,2024-09-19,20.9,1,Active,0
+VEH_0318,20ft Container Truck,9000,2024-03-05,28.6,2,Active,0
+VEH_0319,20ft Container Truck,9000,2024-06-05,31.9,2,Active,0
+VEH_0320,20ft Container Truck,9000,2024-01-18,125.9,6,Breakdown,1
+VEH_0321,20ft Container Truck,9000,2024-01-14,17.3,1,Active,0
+VEH_0322,20ft Container Truck,9000,2024-04-14,2.0,0,Active,0
+VEH_0323,20ft Container Truck,9000,2024-06-20,21.5,1,Active,0
+VEH_0324,20ft Container Truck,9000,2024-03-06,2.0,0,Active,0
+VEH_0325,20ft Container Truck,9000,2024-07-30,86.3,4,Maintenance,1
+VEH_0326,20ft Container Truck,9000,2024-03-27,2.0,0,Active,0
+VEH_0327,20ft Container Truck,9000,2024-05-26,19.2,1,Active,0
+VEH_0328,20ft Container Truck,9000,2024-06-28,22.2,1,Active,0
+VEH_0329,20ft Container Truck,9000,2024-09-03,2.0,0,Active,0
+VEH_0330,20ft Container Truck,9000,2024-02-09,58.1,2,Maintenance,1
+VEH_0331,20ft Container Truck,9000,2024-11-22,15.4,1,Active,0
+VEH_0332,20ft Container Truck,9000,2024-11-24,18.1,1,Active,0
+VEH_0333,20ft Container Truck,9000,2024-04-03,49.1,2,Maintenance,0
+VEH_0334,20ft Container Truck,9000,2024-10-13,17.7,1,Active,0
+VEH_0335,20ft Container Truck,9000,2024-07-26,70.6,3,Maintenance,1
+VEH_0336,20ft Container Truck,9000,2024-04-27,14.7,1,Active,0
+VEH_0337,20ft Container Truck,9000,2024-08-27,2.0,0,Active,0
+VEH_0338,20ft Container Truck,9000,2024-03-28,25.9,1,Active,0
+VEH_0339,20ft Container Truck,9000,2024-12-21,21.5,1,Active,0
+VEH_0340,20ft Container Truck,9000,2024-12-10,96.3,6,Breakdown,1
+VEH_0341,20ft Container Truck,9000,2024-12-19,2.0,0,Active,0
+VEH_0342,20ft Container Truck,9000,2024-06-24,2.0,0,Active,0
+VEH_0343,20ft Container Truck,9000,2024-02-13,41.9,2,Maintenance,0
+VEH_0344,20ft Container Truck,9000,2024-06-30,2.0,0,Active,0
+VEH_0345,20ft Container Truck,9000,2024-07-03,54.5,3,Maintenance,1
+VEH_0346,20ft Container Truck,9000,2024-05-25,2.0,0,Active,0
+VEH_0347,20ft Container Truck,9000,2024-02-25,23.4,2,Active,0
+VEH_0348,20ft Container Truck,9000,2024-09-13,36.7,4,Active,0
+VEH_0349,20ft Container Truck,9000,2024-02-18,14.4,1,Active,0
+VEH_0350,20ft Container Truck,9000,2024-06-21,15.0,0,Active,1
+VEH_0351,20ft Container Truck,9000,2024-03-10,2.0,0,Active,0
+VEH_0352,20ft Container Truck,9000,2024-10-05,2.0,0,Active,0
+VEH_0353,20ft Container Truck,9000,2024-10-30,10.8,1,Active,0
+VEH_0354,20ft Container Truck,9000,2024-06-18,22.8,1,Active,0
+VEH_0355,20ft Container Truck,9000,2024-06-16,119.8,5,Breakdown,1
+VEH_0356,20ft Container Truck,9000,2024-06-06,2.0,0,Active,0
+VEH_0357,20ft Container Truck,9000,2024-09-25,11.0,1,Active,0
+VEH_0358,20ft Container Truck,9000,2024-03-28,38.3,2,Active,0
+VEH_0359,20ft Container Truck,9000,2024-07-20,2.0,0,Active,0
+VEH_0360,20ft Container Truck,9000,2024-12-09,99.1,4,Maintenance,1
+VEH_0361,20ft Container Truck,9000,2024-07-14,2.0,0,Active,0
+VEH_0362,20ft Container Truck,9000,2024-06-21,25.2,1,Active,0
+VEH_0363,20ft Container Truck,9000,2024-12-04,2.0,0,Active,0
+VEH_0364,20ft Container Truck,9000,2024-03-25,2.0,0,Active,0
+VEH_0365,20ft Container Truck,9000,2024-05-22,105.8,7,Breakdown,1
+VEH_0366,20ft Container Truck,9000,2024-06-02,14.0,1,Active,0
+VEH_0367,20ft Container Truck,9000,2024-09-18,2.0,0,Active,0
+VEH_0368,20ft Container Truck,9000,2024-07-22,2.0,0,Active,0
+VEH_0369,20ft Container Truck,9000,2024-01-29,2.0,0,Active,0
+VEH_0370,20ft Container Truck,9000,2024-01-04,34.2,1,Active,1
+VEH_0371,20ft Container Truck,9000,2024-05-21,2.0,0,Active,0
+VEH_0372,20ft Container Truck,9000,2024-10-08,2.0,0,Active,0
+VEH_0373,20ft Container Truck,9000,2024-06-25,24.7,1,Active,0
+VEH_0374,20ft Container Truck,9000,2024-11-16,22.2,1,Active,0
+VEH_0375,20ft Container Truck,9000,2024-08-25,51.5,3,Maintenance,1
+VEH_0376,20ft Container Truck,9000,2024-07-26,2.0,0,Active,0
+VEH_0377,20ft Container Truck,9000,2024-07-10,2.0,0,Active,0
+VEH_0378,20ft Container Truck,9000,2024-09-26,26.6,3,Active,0
+VEH_0379,20ft Container Truck,9000,2024-10-16,2.0,0,Active,0
+VEH_0380,20ft Container Truck,9000,2024-12-08,54.2,2,Maintenance,1
+VEH_0381,20ft Container Truck,9000,2024-07-01,2.0,0,Active,0
+VEH_0382,20ft Container Truck,9000,2024-06-13,26.0,1,Active,0
+VEH_0383,20ft Container Truck,9000,2024-07-05,2.0,0,Active,0
+VEH_0384,20ft Container Truck,9000,2024-08-16,2.0,0,Active,0
+VEH_0385,20ft Container Truck,9000,2024-04-27,133.9,6,Breakdown,1
+VEH_0386,20ft Container Truck,9000,2024-03-10,2.0,0,Active,0
+VEH_0387,20ft Container Truck,9000,2024-05-19,2.0,0,Active,0
+VEH_0388,20ft Container Truck,9000,2024-12-19,34.9,2,Active,0
+VEH_0389,20ft Container Truck,9000,2024-03-18,18.4,1,Active,0
+VEH_0390,20ft Container Truck,9000,2024-05-03,15.0,0,Active,1
+VEH_0391,20ft Container Truck,9000,2024-10-31,2.0,0,Active,0
+VEH_0392,20ft Container Truck,9000,2024-02-01,14.7,1,Active,0
+VEH_0393,20ft Container Truck,9000,2024-11-15,2.0,0,Active,0
+VEH_0394,20ft Container Truck,9000,2024-05-22,20.8,1,Active,0
+VEH_0395,20ft Container Truck,9000,2024-02-13,95.2,5,Breakdown,1
+VEH_0396,20ft Container Truck,9000,2024-07-28,45.1,2,Maintenance,0
+VEH_0397,20ft Container Truck,9000,2024-08-07,2.0,0,Active,0
+VEH_0398,20ft Container Truck,9000,2024-02-02,66.4,4,Maintenance,0
+VEH_0399,20ft Container Truck,9000,2024-06-05,2.0,0,Active,0
+VEH_0400,20ft Container Truck,9000,2024-11-06,129.8,5,Breakdown,1
+VEH_0401,20ft Container Truck,9000,2024-06-15,2.0,0,Active,0
+VEH_0402,20ft Container Truck,9000,2024-06-26,47.9,2,Maintenance,0
+VEH_0403,20ft Container Truck,9000,2024-06-07,2.0,0,Active,0
+VEH_0404,20ft Container Truck,9000,2024-09-06,53.0,3,Maintenance,0
+VEH_0405,20ft Container Truck,9000,2024-01-04,66.6,5,Breakdown,1
+VEH_0406,20ft Container Truck,9000,2024-11-19,38.2,2,Active,0
+VEH_0407,20ft Container Truck,9000,2024-09-11,21.4,1,Active,0
+VEH_0408,20ft Container Truck,9000,2024-04-23,2.0,0,Active,0
+VEH_0409,20ft Container Truck,9000,2024-08-13,2.0,0,Active,0
+VEH_0410,20ft Container Truck,9000,2024-01-29,76.4,4,Maintenance,1
+VEH_0411,20ft Container Truck,9000,2024-05-22,2.0,0,Active,0
+VEH_0412,20ft Container Truck,9000,2024-11-01,2.0,0,Active,0
+VEH_0413,20ft Container Truck,9000,2024-01-16,10.2,1,Active,0
+VEH_0414,20ft Container Truck,9000,2024-02-03,2.0,0,Active,0
+VEH_0415,20ft Container Truck,9000,2024-03-25,47.0,3,Maintenance,1
+VEH_0416,20ft Container Truck,9000,2024-03-25,2.0,0,Active,0
+VEH_0417,20ft Container Truck,9000,2024-11-08,2.0,0,Active,0
+VEH_0418,20ft Container Truck,9000,2024-11-17,17.0,1,Active,0
+VEH_0419,20ft Container Truck,9000,2024-06-05,18.5,1,Active,0
+VEH_0420,20ft Container Truck,9000,2024-10-30,85.0,6,Breakdown,1
+VEH_0421,20ft Container Truck,9000,2024-03-21,2.0,0,Active,0
+VEH_0422,20ft Container Truck,9000,2024-01-15,2.0,0,Active,0
+VEH_0423,20ft Container Truck,9000,2024-05-25,2.0,0,Active,0
+VEH_0424,20ft Container Truck,9000,2024-12-21,2.0,0,Active,0
+VEH_0425,20ft Container Truck,9000,2024-04-02,59.4,3,Maintenance,1
+VEH_0426,20ft Container Truck,9000,2024-10-01,2.0,0,Active,0
+VEH_0427,20ft Container Truck,9000,2024-08-23,2.0,0,Active,0
+VEH_0428,20ft Container Truck,9000,2024-02-21,21.5,1,Active,0
+VEH_0429,20ft Container Truck,9000,2024-07-05,2.0,0,Active,0
+VEH_0430,20ft Container Truck,9000,2024-02-10,168.8,7,Breakdown,1
+VEH_0431,20ft Container Truck,9000,2024-07-05,33.7,2,Active,0
+VEH_0432,20ft Container Truck,9000,2024-06-25,23.6,1,Active,0
+VEH_0433,20ft Container Truck,9000,2024-10-03,21.2,2,Active,0
+VEH_0434,20ft Container Truck,9000,2024-06-14,2.0,0,Active,0
+VEH_0435,20ft Container Truck,9000,2024-07-19,49.9,2,Maintenance,1
+VEH_0436,20ft Container Truck,9000,2024-07-28,18.5,1,Active,0
+VEH_0437,20ft Container Truck,9000,2024-12-12,2.0,0,Active,0
+VEH_0438,20ft Container Truck,9000,2024-04-25,2.0,0,Active,0
+VEH_0439,20ft Container Truck,9000,2024-01-17,2.0,0,Active,0
+VEH_0440,20ft Container Truck,9000,2024-03-25,32.7,1,Active,1
+VEH_0441,20ft Container Truck,9000,2024-01-06,2.0,0,Active,0
+VEH_0442,20ft Container Truck,9000,2024-12-27,49.8,2,Maintenance,0
+VEH_0443,20ft Container Truck,9000,2024-07-16,27.3,2,Active,0
+VEH_0444,20ft Container Truck,9000,2024-11-05,2.0,0,Active,0
+VEH_0445,20ft Container Truck,9000,2024-12-08,99.6,4,Maintenance,1
+VEH_0446,20ft Container Truck,9000,2024-04-19,2.0,0,Active,0
+VEH_0447,20ft Container Truck,9000,2024-12-14,2.0,0,Active,0
+VEH_0448,20ft Container Truck,9000,2024-11-03,15.1,1,Active,0
+VEH_0449,20ft Container Truck,9000,2024-07-29,20.5,1,Active,0
+VEH_0450,20ft Container Truck,9000,2024-04-06,82.3,4,Maintenance,1
+VEH_0451,20ft Container Truck,9000,2024-05-12,2.0,0,Active,0
+VEH_0452,20ft Container Truck,9000,2024-05-27,2.0,0,Active,0
+VEH_0453,20ft Container Truck,9000,2024-10-03,2.0,0,Active,0
+VEH_0454,20ft Container Truck,9000,2024-11-01,2.0,0,Active,0
+VEH_0455,20ft Container Truck,9000,2024-04-20,32.7,2,Active,1
+VEH_0456,20ft Container Truck,9000,2024-01-09,14.4,1,Active,0
+VEH_0457,20ft Container Truck,9000,2024-04-04,2.0,0,Active,0
+VEH_0458,20ft Container Truck,9000,2024-10-20,18.1,1,Active,0
+VEH_0459,20ft Container Truck,9000,2024-04-02,2.0,0,Active,0
+VEH_0460,20ft Container Truck,9000,2024-12-04,77.1,3,Maintenance,1
+VEH_0461,20ft Container Truck,9000,2024-05-26,2.0,0,Active,0
+VEH_0462,20ft Container Truck,9000,2024-06-12,2.0,0,Active,0
+VEH_0463,20ft Container Truck,9000,2024-04-05,2.0,0,Active,0
+VEH_0464,20ft Container Truck,9000,2024-08-31,42.6,2,Maintenance,0
+VEH_0465,20ft Container Truck,9000,2024-01-23,85.1,5,Breakdown,1
+VEH_0466,20ft Container Truck,9000,2024-04-15,29.6,2,Active,0
+VEH_0467,20ft Container Truck,9000,2024-07-18,17.0,1,Active,0
+VEH_0468,20ft Container Truck,9000,2024-07-25,2.0,0,Active,0
+VEH_0469,20ft Container Truck,9000,2024-11-21,14.1,1,Active,0
+VEH_0470,20ft Container Truck,9000,2024-07-24,82.8,3,Maintenance,1
+VEH_0471,20ft Container Truck,9000,2024-08-31,14.2,1,Active,0
+VEH_0472,20ft Container Truck,9000,2024-10-15,22.7,1,Active,0
+VEH_0473,20ft Container Truck,9000,2024-08-13,31.6,2,Active,0
+VEH_0474,20ft Container Truck,9000,2024-08-13,2.0,0,Active,0
+VEH_0475,20ft Container Truck,9000,2024-02-08,79.7,4,Maintenance,1
+VEH_0476,20ft Container Truck,9000,2024-08-01,2.0,0,Active,0
+VEH_0477,20ft Container Truck,9000,2024-07-13,10.3,1,Active,0
+VEH_0478,20ft Container Truck,9000,2024-07-03,18.4,1,Active,0
+VEH_0479,20ft Container Truck,9000,2024-10-23,13.5,1,Active,0
+VEH_0480,20ft Container Truck,9000,2024-11-15,109.4,5,Breakdown,1
+VEH_0481,20ft Container Truck,9000,2024-05-18,2.0,0,Active,0
+VEH_0482,20ft Container Truck,9000,2024-07-14,18.7,1,Active,0
+VEH_0483,20ft Container Truck,9000,2024-04-26,2.0,0,Active,0
+VEH_0484,20ft Container Truck,9000,2024-09-06,25.4,1,Active,0
+VEH_0485,20ft Container Truck,9000,2024-08-13,100.7,7,Breakdown,1
+VEH_0486,20ft Container Truck,9000,2024-02-16,21.4,2,Active,0
+VEH_0487,20ft Container Truck,9000,2024-03-19,23.0,1,Active,0
+VEH_0488,20ft Container Truck,9000,2024-07-04,2.0,0,Active,0
+VEH_0489,20ft Container Truck,9000,2024-02-18,48.3,2,Maintenance,0
+VEH_0490,20ft Container Truck,9000,2024-02-09,88.0,4,Maintenance,1
+VEH_0491,20ft Container Truck,9000,2024-11-03,2.0,0,Active,0
+VEH_0492,20ft Container Truck,9000,2024-07-10,21.8,1,Active,0
+VEH_0493,20ft Container Truck,9000,2024-08-04,2.0,0,Active,0
+VEH_0494,20ft Container Truck,9000,2024-07-28,2.0,0,Active,0
+VEH_0495,20ft Container Truck,9000,2024-08-18,80.4,3,Maintenance,1
+VEH_0496,20ft Container Truck,9000,2024-10-24,19.1,2,Active,0
+VEH_0497,20ft Container Truck,9000,2024-05-06,2.0,0,Active,0
+VEH_0498,20ft Container Truck,9000,2024-11-30,22.3,1,Active,0
+VEH_0499,20ft Container Truck,9000,2024-04-22,2.0,0,Active,0
+VEH_0500,20ft Container Truck,9000,2024-09-02,84.8,3,Maintenance,1
+VEH_0501,20ft Container Truck,9000,2024-04-15,2.0,0,Active,0
+VEH_0502,20ft Container Truck,9000,2024-04-22,10.0,1,Active,0
+VEH_0503,20ft Container Truck,9000,2024-07-14,2.0,0,Active,0
+VEH_0504,20ft Container Truck,9000,2024-07-11,38.8,2,Active,0
+VEH_0505,20ft Container Truck,9000,2024-01-29,41.3,2,Maintenance,1
+VEH_0506,20ft Container Truck,9000,2024-07-10,2.0,0,Active,0
+VEH_0507,20ft Container Truck,9000,2024-03-10,68.3,5,Breakdown,0
+VEH_0508,20ft Container Truck,9000,2024-08-27,2.0,0,Active,0
+VEH_0509,20ft Container Truck,9000,2024-01-30,2.0,0,Active,0
+VEH_0510,20ft Container Truck,9000,2024-11-19,126.3,5,Breakdown,1
+VEH_0511,20ft Container Truck,9000,2024-03-30,2.0,0,Active,0
+VEH_0512,20ft Container Truck,9000,2024-08-17,17.6,1,Active,0
+VEH_0513,20ft Container Truck,9000,2024-09-29,11.5,1,Active,0
+VEH_0514,20ft Container Truck,9000,2024-08-24,2.0,0,Active,0
+VEH_0515,20ft Container Truck,9000,2024-08-19,45.4,2,Maintenance,1
+VEH_0516,20ft Container Truck,9000,2024-10-11,2.0,0,Active,0
+VEH_0517,20ft Container Truck,9000,2024-02-08,24.1,1,Active,0
+VEH_0518,20ft Container Truck,9000,2024-06-05,2.0,0,Active,0
+VEH_0519,20ft Container Truck,9000,2024-04-15,33.5,2,Active,0
+VEH_0520,20ft Container Truck,9000,2024-04-23,140.5,8,Breakdown,1
+VEH_0521,20ft Container Truck,9000,2024-01-22,2.0,0,Active,0
+VEH_0522,20ft Container Truck,9000,2024-03-19,2.0,0,Active,0
+VEH_0523,20ft Container Truck,9000,2024-05-14,25.8,2,Active,0
+VEH_0524,20ft Container Truck,9000,2024-09-30,2.0,0,Active,0
+VEH_0525,20ft Container Truck,9000,2024-03-29,40.0,3,Active,1
+VEH_0526,20ft Container Truck,9000,2024-03-05,2.0,0,Active,0
+VEH_0527,20ft Container Truck,9000,2024-04-01,2.0,0,Active,0
+VEH_0528,20ft Container Truck,9000,2024-02-21,47.8,2,Maintenance,0
+VEH_0529,20ft Container Truck,9000,2024-03-21,52.6,3,Maintenance,0
+VEH_0530,20ft Container Truck,9000,2024-11-08,84.7,4,Maintenance,1
+VEH_0531,20ft Container Truck,9000,2024-03-17,15.9,1,Active,0
+VEH_0532,20ft Container Truck,9000,2024-05-28,23.5,1,Active,0
+VEH_0533,20ft Container Truck,9000,2024-08-11,2.0,0,Active,0
+VEH_0534,20ft Container Truck,9000,2024-07-02,10.7,1,Active,0
+VEH_0535,20ft Container Truck,9000,2024-09-19,84.3,3,Maintenance,1
+VEH_0536,20ft Container Truck,9000,2024-05-19,18.7,1,Active,0
+VEH_0537,20ft Container Truck,9000,2024-04-25,13.6,1,Active,0
+VEH_0538,20ft Container Truck,9000,2024-12-06,21.6,1,Active,0
+VEH_0539,20ft Container Truck,9000,2024-06-18,16.9,1,Active,0
+VEH_0540,20ft Container Truck,9000,2024-07-02,15.0,0,Active,1
+VEH_0541,20ft Container Truck,9000,2024-12-03,23.2,1,Active,0
+VEH_0542,20ft Container Truck,9000,2024-12-05,39.0,2,Active,0
+VEH_0543,20ft Container Truck,9000,2024-07-17,18.8,1,Active,0
+VEH_0544,20ft Container Truck,9000,2024-05-15,2.0,0,Active,0
+VEH_0545,20ft Container Truck,9000,2024-11-18,127.2,6,Breakdown,1
+VEH_0546,20ft Container Truck,9000,2024-06-20,2.0,0,Active,0
+VEH_0547,20ft Container Truck,9000,2024-12-30,2.0,0,Active,0
+VEH_0548,20ft Container Truck,9000,2024-10-19,2.0,0,Active,0
+VEH_0549,20ft Container Truck,9000,2024-01-19,2.0,0,Active,0
+VEH_0550,20ft Container Truck,9000,2024-08-22,55.3,5,Maintenance,1
+VEH_0551,20ft Container Truck,9000,2024-08-21,2.0,0,Active,0
+VEH_0552,20ft Container Truck,9000,2024-09-01,24.8,1,Active,0
+VEH_0553,20ft Container Truck,9000,2024-12-06,2.0,0,Active,0
+VEH_0554,20ft Container Truck,9000,2024-10-12,13.2,1,Active,0
+VEH_0555,20ft Container Truck,9000,2024-02-11,52.6,2,Maintenance,1
+VEH_0556,20ft Container Truck,9000,2024-08-11,32.4,2,Active,0
+VEH_0557,20ft Container Truck,9000,2024-01-09,2.0,0,Active,0
+VEH_0558,20ft Container Truck,9000,2024-01-29,23.1,1,Active,0
+VEH_0559,20ft Container Truck,9000,2024-07-02,2.0,0,Active,0
+VEH_0560,20ft Container Truck,9000,2024-11-30,62.4,2,Maintenance,1
+VEH_0561,20ft Container Truck,9000,2024-10-11,2.0,0,Active,0
+VEH_0562,20ft Container Truck,9000,2024-05-19,2.0,0,Active,0
+VEH_0563,20ft Container Truck,9000,2024-12-24,2.0,0,Active,0
+VEH_0564,20ft Container Truck,9000,2024-03-31,43.9,3,Maintenance,0
+VEH_0565,20ft Container Truck,9000,2024-04-24,25.9,1,Active,1
+VEH_0566,20ft Container Truck,9000,2024-11-10,14.2,1,Active,0
+VEH_0567,20ft Container Truck,9000,2024-12-17,2.0,0,Active,0
+VEH_0568,20ft Container Truck,9000,2024-09-16,42.1,2,Maintenance,0
+VEH_0569,20ft Container Truck,9000,2024-12-09,21.8,1,Active,0
+VEH_0570,20ft Container Truck,9000,2024-06-24,71.3,3,Maintenance,1
+VEH_0571,20ft Container Truck,9000,2024-01-06,68.7,3,Maintenance,0
+VEH_0572,20ft Container Truck,9000,2024-07-05,2.0,0,Active,0
+VEH_0573,20ft Container Truck,9000,2024-04-08,23.4,1,Active,0
+VEH_0574,20ft Container Truck,9000,2024-12-24,40.3,2,Maintenance,0
+VEH_0575,20ft Container Truck,9000,2024-08-19,27.2,1,Active,1
+VEH_0576,20ft Container Truck,9000,2024-05-09,11.6,1,Active,0
+VEH_0577,20ft Container Truck,9000,2024-02-09,14.4,1,Active,0
+VEH_0578,20ft Container Truck,9000,2024-08-09,22.4,1,Active,0
+VEH_0579,20ft Container Truck,9000,2024-07-08,2.0,0,Active,0
+VEH_0580,20ft Container Truck,9000,2024-08-13,131.0,8,Breakdown,1
+VEH_0581,20ft Container Truck,9000,2024-04-27,2.0,0,Active,0
+VEH_0582,20ft Container Truck,9000,2024-01-12,29.7,2,Active,0
+VEH_0583,20ft Container Truck,9000,2024-05-06,2.0,0,Active,0
+VEH_0584,20ft Container Truck,9000,2024-04-18,2.0,0,Active,0
+VEH_0585,20ft Container Truck,9000,2024-02-08,126.1,6,Breakdown,1
+VEH_0586,20ft Container Truck,9000,2024-04-25,2.0,0,Active,0
+VEH_0587,20ft Container Truck,9000,2024-11-17,11.2,1,Active,0
+VEH_0588,20ft Container Truck,9000,2024-03-16,19.8,1,Active,0
+VEH_0589,20ft Container Truck,9000,2024-08-06,34.9,4,Active,0
+VEH_0590,20ft Container Truck,9000,2024-06-23,100.6,5,Breakdown,1
+VEH_0591,20ft Container Truck,9000,2024-02-27,2.0,0,Active,0
+VEH_0592,20ft Container Truck,9000,2024-09-07,2.0,0,Active,0
+VEH_0593,20ft Container Truck,9000,2024-06-25,2.0,0,Active,0
+VEH_0594,20ft Container Truck,9000,2024-11-29,118.8,5,Breakdown,0
+VEH_0595,20ft Container Truck,9000,2024-06-09,68.4,4,Maintenance,1
+VEH_0596,20ft Container Truck,9000,2024-09-21,10.7,1,Active,0
+VEH_0597,20ft Container Truck,9000,2024-04-18,2.0,0,Active,0
+VEH_0598,20ft Container Truck,9000,2024-06-06,2.0,0,Active,0
+VEH_0599,20ft Container Truck,9000,2024-03-27,20.1,1,Active,0
+VEH_0600,20ft Container Truck,9000,2024-05-12,117.0,5,Breakdown,1
+VEH_0601,20ft Container Truck,9000,2024-02-23,2.0,0,Active,0
+VEH_0602,20ft Container Truck,9000,2024-04-18,21.4,1,Active,0
+VEH_0603,20ft Container Truck,9000,2024-10-09,21.8,1,Active,0
+VEH_0604,20ft Container Truck,9000,2024-09-04,2.0,0,Active,0
+VEH_0605,20ft Container Truck,9000,2024-10-04,55.9,2,Maintenance,1
+VEH_0606,20ft Container Truck,9000,2024-04-17,49.4,2,Maintenance,0
+VEH_0607,20ft Container Truck,9000,2024-10-27,20.6,1,Active,0
+VEH_0608,20ft Container Truck,9000,2024-03-17,22.7,1,Active,0
+VEH_0609,20ft Container Truck,9000,2024-04-27,2.0,0,Active,0
+VEH_0610,20ft Container Truck,9000,2024-07-23,107.8,5,Breakdown,1
+VEH_0611,20ft Container Truck,9000,2024-06-13,2.0,0,Active,0
+VEH_0612,20ft Container Truck,9000,2024-03-12,2.0,0,Active,0
+VEH_0613,20ft Container Truck,9000,2024-04-02,2.0,0,Active,0
+VEH_0614,20ft Container Truck,9000,2024-03-06,51.8,4,Maintenance,0
+VEH_0615,20ft Container Truck,9000,2024-09-20,106.0,4,Maintenance,1
+VEH_0616,20ft Container Truck,9000,2024-10-07,15.0,1,Active,0
+VEH_0617,20ft Container Truck,9000,2024-07-19,2.0,0,Active,0
+VEH_0618,20ft Container Truck,9000,2024-04-16,10.8,1,Active,0
+VEH_0619,20ft Container Truck,9000,2024-06-20,40.4,3,Maintenance,0
+VEH_0620,20ft Container Truck,9000,2024-06-03,95.1,4,Maintenance,1
+VEH_0621,20ft Container Truck,9000,2024-03-20,13.4,1,Active,0
+VEH_0622,20ft Container Truck,9000,2024-01-04,13.6,1,Active,0
+VEH_0623,20ft Container Truck,9000,2024-05-02,2.0,0,Active,0
+VEH_0624,20ft Container Truck,9000,2024-12-21,16.9,1,Active,0
+VEH_0625,20ft Container Truck,9000,2024-03-01,58.3,4,Maintenance,1
+VEH_0626,20ft Container Truck,9000,2024-10-17,2.0,0,Active,0
+VEH_0627,20ft Container Truck,9000,2024-04-09,2.0,0,Active,0
+VEH_0628,20ft Container Truck,9000,2024-02-15,56.3,3,Maintenance,0
+VEH_0629,20ft Container Truck,9000,2024-03-18,2.0,0,Active,0
+VEH_0630,20ft Container Truck,9000,2024-03-11,34.5,1,Active,1
+VEH_0631,20ft Container Truck,9000,2024-03-13,2.0,0,Active,0
+VEH_0632,20ft Container Truck,9000,2024-08-24,2.0,0,Active,0
+VEH_0633,20ft Container Truck,9000,2024-01-08,24.4,1,Active,0
+VEH_0634,20ft Container Truck,9000,2024-05-28,2.0,0,Active,0
+VEH_0635,20ft Container Truck,9000,2024-05-01,45.2,3,Maintenance,1
+VEH_0636,20ft Container Truck,9000,2024-04-09,2.0,0,Active,0
+VEH_0637,20ft Container Truck,9000,2024-02-22,47.2,2,Maintenance,0
+VEH_0638,20ft Container Truck,9000,2024-10-23,29.0,2,Active,0
+VEH_0639,20ft Container Truck,9000,2024-01-29,12.2,1,Active,0
+VEH_0640,20ft Container Truck,9000,2024-07-01,98.3,4,Maintenance,1
+VEH_0641,20ft Container Truck,9000,2024-06-18,2.0,0,Active,0
+VEH_0642,20ft Container Truck,9000,2024-06-25,20.3,1,Active,0
+VEH_0643,20ft Container Truck,9000,2024-02-18,16.4,1,Active,0
+VEH_0644,20ft Container Truck,9000,2024-08-24,2.0,0,Active,0
+VEH_0645,20ft Container Truck,9000,2024-01-10,47.3,3,Maintenance,1
+VEH_0646,20ft Container Truck,9000,2024-11-11,17.1,1,Active,0
+VEH_0647,20ft Container Truck,9000,2024-11-24,38.5,2,Active,0
+VEH_0648,20ft Container Truck,9000,2024-01-31,2.0,0,Active,0
+VEH_0649,20ft Container Truck,9000,2024-04-07,25.6,1,Active,0
+VEH_0650,20ft Container Truck,9000,2024-05-26,71.3,6,Breakdown,1
+VEH_0651,14ft LCV,4000,2024-03-21,32.8,2,Active,0
+VEH_0652,14ft LCV,4000,2024-12-04,2.0,0,Active,0
+VEH_0653,14ft LCV,4000,2024-11-23,15.0,1,Active,0
+VEH_0654,14ft LCV,4000,2024-01-14,2.0,0,Active,0
+VEH_0655,14ft LCV,4000,2024-03-31,47.1,2,Maintenance,1
+VEH_0656,14ft LCV,4000,2024-11-16,2.0,0,Active,0
+VEH_0657,14ft LCV,4000,2024-08-11,19.8,1,Active,0
+VEH_0658,14ft LCV,4000,2024-12-11,13.2,1,Active,0
+VEH_0659,14ft LCV,4000,2024-08-15,23.5,1,Active,0
+VEH_0660,14ft LCV,4000,2024-07-03,74.0,3,Maintenance,1
+VEH_0661,14ft LCV,4000,2024-02-15,2.0,0,Active,0
+VEH_0662,14ft LCV,4000,2024-02-12,2.0,0,Active,0
+VEH_0663,14ft LCV,4000,2024-03-12,21.1,1,Active,0
+VEH_0664,14ft LCV,4000,2024-12-13,22.4,1,Active,0
+VEH_0665,14ft LCV,4000,2024-09-03,82.2,4,Maintenance,1
+VEH_0666,14ft LCV,4000,2024-11-25,2.0,0,Active,0
+VEH_0667,14ft LCV,4000,2024-09-05,2.0,0,Active,0
+VEH_0668,14ft LCV,4000,2024-01-15,2.0,0,Active,0
+VEH_0669,14ft LCV,4000,2024-10-18,86.2,4,Maintenance,0
+VEH_0670,14ft LCV,4000,2024-03-12,15.0,0,Active,1
+VEH_0671,14ft LCV,4000,2024-05-25,20.5,1,Active,0
+VEH_0672,14ft LCV,4000,2024-05-13,30.8,2,Active,0
+VEH_0673,14ft LCV,4000,2024-04-17,49.2,2,Maintenance,0
+VEH_0674,14ft LCV,4000,2024-02-22,2.0,0,Active,0
+VEH_0675,14ft LCV,4000,2024-07-06,29.5,1,Active,1
+VEH_0676,14ft LCV,4000,2024-01-02,25.2,1,Active,0
+VEH_0677,14ft LCV,4000,2024-06-07,2.0,0,Active,0
+VEH_0678,14ft LCV,4000,2024-03-02,23.1,1,Active,0
+VEH_0679,14ft LCV,4000,2024-02-21,2.0,0,Active,0
+VEH_0680,14ft LCV,4000,2024-07-22,73.1,4,Maintenance,1
+VEH_0681,14ft LCV,4000,2024-06-26,2.0,0,Active,0
+VEH_0682,14ft LCV,4000,2024-01-18,2.0,0,Active,0
+VEH_0683,14ft LCV,4000,2024-04-27,2.0,0,Active,0
+VEH_0684,14ft LCV,4000,2024-08-07,2.0,0,Active,0
+VEH_0685,14ft LCV,4000,2024-06-17,53.5,3,Maintenance,1
+VEH_0686,14ft LCV,4000,2024-05-28,2.0,0,Active,0
+VEH_0687,14ft LCV,4000,2024-05-05,11.4,1,Active,0
+VEH_0688,14ft LCV,4000,2024-05-11,20.9,1,Active,0
+VEH_0689,14ft LCV,4000,2024-07-12,2.0,0,Active,0
+VEH_0690,14ft LCV,4000,2024-07-27,82.0,3,Maintenance,1
+VEH_0691,14ft LCV,4000,2024-11-15,2.0,0,Active,0
+VEH_0692,14ft LCV,4000,2024-04-22,14.6,1,Active,0
+VEH_0693,14ft LCV,4000,2024-08-18,48.6,2,Maintenance,0
+VEH_0694,14ft LCV,4000,2024-06-20,15.0,1,Active,0
+VEH_0695,14ft LCV,4000,2024-03-22,50.9,4,Maintenance,1
+VEH_0696,14ft LCV,4000,2024-10-13,14.8,1,Active,0
+VEH_0697,14ft LCV,4000,2024-08-07,17.4,1,Active,0
+VEH_0698,14ft LCV,4000,2024-11-04,18.9,1,Active,0
+VEH_0699,14ft LCV,4000,2024-12-20,2.0,0,Active,0
+VEH_0700,14ft LCV,4000,2024-03-02,177.2,9,Breakdown,1
+VEH_0701,14ft LCV,4000,2024-12-15,2.0,0,Active,0
+VEH_0702,14ft LCV,4000,2024-06-30,2.0,0,Active,0
+VEH_0703,14ft LCV,4000,2024-11-02,2.0,0,Active,0
+VEH_0704,14ft LCV,4000,2024-03-26,17.3,1,Active,0
+VEH_0705,14ft LCV,4000,2024-01-17,25.2,1,Active,1
+VEH_0706,14ft LCV,4000,2024-10-14,17.1,1,Active,0
+VEH_0707,14ft LCV,4000,2024-08-23,18.9,1,Active,0
+VEH_0708,14ft LCV,4000,2024-10-03,32.2,2,Active,0
+VEH_0709,14ft LCV,4000,2024-12-04,14.9,1,Active,0
+VEH_0710,14ft LCV,4000,2024-04-20,128.4,5,Breakdown,1
+VEH_0711,14ft LCV,4000,2024-10-13,2.0,0,Active,0
+VEH_0712,14ft LCV,4000,2024-04-29,2.0,0,Active,0
+VEH_0713,14ft LCV,4000,2024-09-25,48.0,2,Maintenance,0
+VEH_0714,14ft LCV,4000,2024-12-13,25.3,1,Active,0
+VEH_0715,14ft LCV,4000,2024-05-20,98.4,5,Breakdown,1
+VEH_0716,14ft LCV,4000,2024-12-01,16.6,1,Active,0
+VEH_0717,14ft LCV,4000,2024-07-08,2.0,0,Active,0
+VEH_0718,14ft LCV,4000,2024-08-17,2.0,0,Active,0
+VEH_0719,14ft LCV,4000,2024-02-03,2.0,0,Active,0
+VEH_0720,14ft LCV,4000,2024-07-08,51.0,3,Maintenance,1
+VEH_0721,14ft LCV,4000,2024-08-22,34.7,2,Active,0
+VEH_0722,14ft LCV,4000,2024-02-03,23.2,1,Active,0
+VEH_0723,14ft LCV,4000,2024-09-18,10.6,1,Active,0
+VEH_0724,14ft LCV,4000,2024-08-29,20.0,1,Active,0
+VEH_0725,14ft LCV,4000,2024-06-24,33.6,1,Active,1
+VEH_0726,14ft LCV,4000,2024-09-27,63.5,3,Maintenance,0
+VEH_0727,14ft LCV,4000,2024-02-08,2.0,0,Active,0
+VEH_0728,14ft LCV,4000,2024-12-26,34.4,2,Active,0
+VEH_0729,14ft LCV,4000,2024-11-19,18.7,1,Active,0
+VEH_0730,14ft LCV,4000,2024-05-01,59.5,5,Maintenance,1
+VEH_0731,14ft LCV,4000,2024-01-06,2.0,0,Active,0
+VEH_0732,14ft LCV,4000,2024-01-03,31.4,3,Active,0
+VEH_0733,14ft LCV,4000,2024-07-10,2.0,0,Active,0
+VEH_0734,14ft LCV,4000,2024-08-30,2.0,0,Active,0
+VEH_0735,14ft LCV,4000,2024-08-03,120.1,5,Breakdown,1
+VEH_0736,14ft LCV,4000,2024-02-05,2.0,0,Active,0
+VEH_0737,14ft LCV,4000,2024-12-13,26.0,1,Active,0
+VEH_0738,14ft LCV,4000,2024-08-07,2.0,0,Active,0
+VEH_0739,14ft LCV,4000,2024-12-30,20.5,1,Active,0
+VEH_0740,14ft LCV,4000,2024-08-22,39.2,2,Active,1
+VEH_0741,14ft LCV,4000,2024-10-02,39.0,2,Active,0
+VEH_0742,14ft LCV,4000,2024-07-14,2.0,0,Active,0
+VEH_0743,14ft LCV,4000,2024-08-21,2.0,0,Active,0
+VEH_0744,14ft LCV,4000,2024-03-20,2.0,0,Active,0
+VEH_0745,14ft LCV,4000,2024-03-04,41.8,3,Maintenance,1
+VEH_0746,14ft LCV,4000,2024-05-05,34.4,2,Active,0
+VEH_0747,14ft LCV,4000,2024-06-22,14.7,1,Active,0
+VEH_0748,14ft LCV,4000,2024-03-26,2.0,0,Active,0
+VEH_0749,14ft LCV,4000,2024-06-28,42.1,2,Maintenance,0
+VEH_0750,14ft LCV,4000,2024-01-31,55.8,4,Maintenance,1
+VEH_0751,14ft LCV,4000,2024-09-11,2.0,0,Active,0
+VEH_0752,14ft LCV,4000,2024-08-09,21.2,1,Active,0
+VEH_0753,14ft LCV,4000,2024-07-14,40.4,2,Maintenance,0
+VEH_0754,14ft LCV,4000,2024-04-19,2.0,0,Active,0
+VEH_0755,14ft LCV,4000,2024-07-05,158.4,8,Breakdown,1
+VEH_0756,14ft LCV,4000,2024-03-20,18.4,1,Active,0
+VEH_0757,14ft LCV,4000,2024-06-02,2.0,0,Active,0
+VEH_0758,14ft LCV,4000,2024-08-01,19.5,1,Active,0
+VEH_0759,14ft LCV,4000,2024-03-04,2.0,0,Active,0
+VEH_0760,14ft LCV,4000,2024-11-25,79.5,5,Breakdown,1
+VEH_0761,14ft LCV,4000,2024-11-25,18.9,1,Active,0
+VEH_0762,14ft LCV,4000,2024-04-12,15.0,1,Active,0
+VEH_0763,14ft LCV,4000,2024-03-28,35.5,2,Active,0
+VEH_0764,14ft LCV,4000,2024-04-21,20.2,1,Active,0
+VEH_0765,14ft LCV,4000,2024-09-30,62.0,3,Maintenance,1
+VEH_0766,14ft LCV,4000,2024-05-05,2.0,0,Active,0
+VEH_0767,14ft LCV,4000,2024-04-18,42.9,3,Maintenance,0
+VEH_0768,14ft LCV,4000,2024-03-17,30.1,2,Active,0
+VEH_0769,14ft LCV,4000,2024-03-31,24.8,1,Active,0
+VEH_0770,14ft LCV,4000,2024-03-07,34.8,2,Active,1
+VEH_0771,14ft LCV,4000,2024-12-06,2.0,0,Active,0
+VEH_0772,14ft LCV,4000,2024-05-08,26.5,2,Active,0
+VEH_0773,14ft LCV,4000,2024-02-11,14.3,1,Active,0
+VEH_0774,14ft LCV,4000,2024-08-25,37.6,2,Active,0
+VEH_0775,14ft LCV,4000,2024-12-23,107.7,7,Breakdown,1
+VEH_0776,14ft LCV,4000,2024-02-22,2.0,0,Active,0
+VEH_0777,14ft LCV,4000,2024-12-27,11.8,1,Active,0
+VEH_0778,14ft LCV,4000,2024-09-17,15.1,1,Active,0
+VEH_0779,14ft LCV,4000,2024-10-25,24.5,1,Active,0
+VEH_0780,14ft LCV,4000,2024-05-21,66.1,4,Maintenance,1
+VEH_0781,14ft LCV,4000,2024-07-31,2.0,0,Active,0
+VEH_0782,14ft LCV,4000,2024-06-29,2.0,0,Active,0
+VEH_0783,14ft LCV,4000,2024-10-11,18.4,1,Active,0
+VEH_0784,14ft LCV,4000,2024-08-09,25.5,1,Active,0
+VEH_0785,14ft LCV,4000,2024-08-02,48.0,2,Maintenance,1
+VEH_0786,14ft LCV,4000,2024-05-29,2.0,0,Active,0
+VEH_0787,14ft LCV,4000,2024-04-04,2.0,0,Active,0
+VEH_0788,14ft LCV,4000,2024-05-14,2.0,0,Active,0
+VEH_0789,14ft LCV,4000,2024-01-23,2.0,0,Active,0
+VEH_0790,14ft LCV,4000,2024-11-11,30.0,1,Active,1
+VEH_0791,14ft LCV,4000,2024-06-17,24.7,1,Active,0
+VEH_0792,14ft LCV,4000,2024-09-22,72.8,3,Maintenance,0
+VEH_0793,14ft LCV,4000,2024-08-08,25.0,1,Active,0
+VEH_0794,14ft LCV,4000,2024-06-28,2.0,0,Active,0
+VEH_0795,14ft LCV,4000,2024-04-01,40.0,3,Active,1
+VEH_0796,14ft LCV,4000,2024-11-17,2.0,0,Active,0
+VEH_0797,14ft LCV,4000,2024-01-06,23.2,2,Active,0
+VEH_0798,14ft LCV,4000,2024-04-08,24.9,1,Active,0
+VEH_0799,14ft LCV,4000,2024-03-31,43.3,2,Maintenance,0
+VEH_0800,14ft LCV,4000,2024-09-02,82.8,5,Breakdown,1
+VEH_0801,14ft LCV,4000,2024-09-15,2.0,0,Active,0
+VEH_0802,14ft LCV,4000,2024-03-04,2.0,0,Active,0
+VEH_0803,14ft LCV,4000,2024-08-24,30.9,2,Active,0
+VEH_0804,14ft LCV,4000,2024-12-19,56.9,3,Maintenance,0
+VEH_0805,14ft LCV,4000,2024-07-04,132.5,6,Breakdown,1
+VEH_0806,14ft LCV,4000,2024-06-23,2.0,0,Active,0
+VEH_0807,14ft LCV,4000,2024-03-03,2.0,0,Active,0
+VEH_0808,14ft LCV,4000,2024-06-27,12.1,1,Active,0
+VEH_0809,14ft LCV,4000,2024-02-02,2.0,0,Active,0
+VEH_0810,14ft LCV,4000,2024-11-24,63.9,4,Maintenance,1
+VEH_0811,14ft LCV,4000,2024-08-20,24.5,1,Active,0
+VEH_0812,14ft LCV,4000,2024-04-29,2.0,0,Active,0
+VEH_0813,14ft LCV,4000,2024-09-28,2.0,0,Active,0
+VEH_0814,14ft LCV,4000,2024-08-18,2.0,0,Active,0
+VEH_0815,14ft LCV,4000,2024-04-14,124.8,6,Breakdown,1
+VEH_0816,14ft LCV,4000,2024-09-16,22.8,1,Active,0
+VEH_0817,14ft LCV,4000,2024-10-19,2.0,0,Active,0
+VEH_0818,14ft LCV,4000,2024-06-19,2.0,0,Active,0
+VEH_0819,14ft LCV,4000,2024-02-01,16.6,1,Active,0
+VEH_0820,14ft LCV,4000,2024-09-19,163.2,8,Breakdown,1
+VEH_0821,14ft LCV,4000,2024-03-31,19.6,1,Active,0
+VEH_0822,14ft LCV,4000,2024-02-03,2.0,0,Active,0
+VEH_0823,14ft LCV,4000,2024-06-05,2.0,0,Active,0
+VEH_0824,14ft LCV,4000,2024-03-29,2.0,0,Active,0
+VEH_0825,14ft LCV,4000,2024-02-02,43.3,2,Maintenance,1
+VEH_0826,14ft LCV,4000,2024-07-08,2.0,0,Active,0
+VEH_0827,14ft LCV,4000,2024-03-29,2.0,0,Active,0
+VEH_0828,14ft LCV,4000,2024-09-21,2.0,0,Active,0
+VEH_0829,14ft LCV,4000,2024-12-26,2.0,0,Active,0
+VEH_0830,14ft LCV,4000,2024-09-30,34.2,2,Active,1
+VEH_0831,14ft LCV,4000,2024-08-22,2.0,0,Active,0
+VEH_0832,14ft LCV,4000,2024-06-25,2.0,0,Active,0
+VEH_0833,14ft LCV,4000,2024-03-03,35.8,2,Active,0
+VEH_0834,14ft LCV,4000,2024-07-07,125.3,6,Breakdown,0
+VEH_0835,14ft LCV,4000,2024-09-18,142.4,6,Breakdown,1
+VEH_0836,14ft LCV,4000,2024-05-18,18.5,1,Active,0
+VEH_0837,14ft LCV,4000,2024-11-13,55.4,3,Maintenance,0
+VEH_0838,14ft LCV,4000,2024-01-28,2.0,0,Active,0
+VEH_0839,14ft LCV,4000,2024-11-24,2.0,0,Active,0
+VEH_0840,14ft LCV,4000,2024-07-22,107.9,5,Breakdown,1
+VEH_0841,14ft LCV,4000,2024-05-17,11.0,1,Active,0
+VEH_0842,14ft LCV,4000,2024-08-11,2.0,0,Active,0
+VEH_0843,14ft LCV,4000,2024-10-20,38.8,3,Active,0
+VEH_0844,14ft LCV,4000,2024-09-23,2.0,0,Active,0
+VEH_0845,14ft LCV,4000,2024-12-21,64.0,3,Maintenance,1
+VEH_0846,14ft LCV,4000,2024-08-03,12.0,1,Active,0
+VEH_0847,14ft LCV,4000,2024-08-10,2.0,0,Active,0
+VEH_0848,14ft LCV,4000,2024-08-27,15.8,1,Active,0
+VEH_0849,14ft LCV,4000,2024-02-27,68.6,3,Maintenance,0
+VEH_0850,14ft LCV,4000,2024-12-29,79.2,4,Maintenance,1
+VEH_0851,14ft LCV,4000,2024-10-01,2.0,0,Active,0
+VEH_0852,14ft LCV,4000,2024-09-27,21.9,1,Active,0
+VEH_0853,14ft LCV,4000,2024-09-30,24.4,1,Active,0
+VEH_0854,14ft LCV,4000,2024-09-14,2.0,0,Active,0
+VEH_0855,14ft LCV,4000,2024-03-18,27.1,1,Active,1
+VEH_0856,14ft LCV,4000,2024-02-27,23.2,1,Active,0
+VEH_0857,14ft LCV,4000,2024-10-09,25.1,1,Active,0
+VEH_0858,14ft LCV,4000,2024-08-26,23.5,1,Active,0
+VEH_0859,14ft LCV,4000,2024-02-03,16.6,1,Active,0
+VEH_0860,14ft LCV,4000,2024-06-23,65.5,3,Maintenance,1
+VEH_0861,14ft LCV,4000,2024-04-05,25.9,1,Active,0
+VEH_0862,14ft LCV,4000,2024-08-05,2.0,0,Active,0
+VEH_0863,14ft LCV,4000,2024-11-17,2.0,0,Active,0
+VEH_0864,14ft LCV,4000,2024-06-22,2.0,0,Active,0
+VEH_0865,14ft LCV,4000,2024-12-20,70.9,3,Maintenance,1
+VEH_0866,14ft LCV,4000,2024-02-05,14.8,1,Active,0
+VEH_0867,14ft LCV,4000,2024-05-14,60.5,3,Maintenance,0
+VEH_0868,14ft LCV,4000,2024-02-29,2.0,0,Active,0
+VEH_0869,14ft LCV,4000,2024-11-16,30.4,2,Active,0
+VEH_0870,14ft LCV,4000,2024-08-30,115.5,7,Breakdown,1
+VEH_0871,14ft LCV,4000,2024-08-12,2.0,0,Active,0
+VEH_0872,14ft LCV,4000,2024-12-18,2.0,0,Active,0
+VEH_0873,14ft LCV,4000,2024-08-14,23.5,2,Active,0
+VEH_0874,14ft LCV,4000,2024-02-13,2.0,0,Active,0
+VEH_0875,14ft LCV,4000,2024-11-17,98.3,5,Breakdown,1
+VEH_0876,14ft LCV,4000,2024-08-04,14.4,1,Active,0
+VEH_0877,14ft LCV,4000,2024-03-12,2.0,0,Active,0
+VEH_0878,14ft LCV,4000,2024-10-22,13.6,1,Active,0
+VEH_0879,14ft LCV,4000,2024-08-27,14.3,1,Active,0
+VEH_0880,14ft LCV,4000,2024-09-21,47.1,3,Maintenance,1
+VEH_0881,14ft LCV,4000,2024-04-14,2.0,0,Active,0
+VEH_0882,14ft LCV,4000,2024-05-07,45.9,2,Maintenance,0
+VEH_0883,14ft LCV,4000,2024-12-27,25.4,2,Active,0
+VEH_0884,14ft LCV,4000,2024-11-17,2.0,0,Active,0
+VEH_0885,14ft LCV,4000,2024-12-23,103.0,4,Maintenance,1
+VEH_0886,14ft LCV,4000,2024-10-05,2.0,0,Active,0
+VEH_0887,14ft LCV,4000,2024-11-14,2.0,0,Active,0
+VEH_0888,14ft LCV,4000,2024-10-04,2.0,0,Active,0
+VEH_0889,14ft LCV,4000,2024-06-19,36.0,4,Active,0
+VEH_0890,14ft LCV,4000,2024-07-02,61.4,2,Maintenance,1
+VEH_0891,14ft LCV,4000,2024-04-24,2.0,0,Active,0
+VEH_0892,14ft LCV,4000,2024-09-21,2.0,0,Active,0
+VEH_0893,14ft LCV,4000,2024-02-29,20.4,1,Active,0
+VEH_0894,14ft LCV,4000,2024-09-26,2.0,0,Active,0
+VEH_0895,14ft LCV,4000,2024-10-17,55.0,3,Maintenance,1
+VEH_0896,14ft LCV,4000,2024-09-10,2.0,0,Active,0
+VEH_0897,14ft LCV,4000,2024-06-24,18.7,1,Active,0
+VEH_0898,14ft LCV,4000,2024-03-27,2.0,0,Active,0
+VEH_0899,14ft LCV,4000,2024-08-14,54.8,3,Maintenance,0
+VEH_0900,14ft LCV,4000,2024-06-16,49.8,3,Maintenance,1
+VEH_0901,14ft LCV,4000,2024-08-13,2.0,0,Active,0
+VEH_0902,14ft LCV,4000,2024-05-04,2.0,0,Active,0
+VEH_0903,14ft LCV,4000,2024-03-10,2.0,0,Active,0
+VEH_0904,14ft LCV,4000,2024-05-25,2.0,0,Active,0
+VEH_0905,14ft LCV,4000,2024-09-20,69.4,3,Maintenance,1
+VEH_0906,14ft LCV,4000,2024-08-10,10.9,1,Active,0
+VEH_0907,14ft LCV,4000,2024-10-05,2.0,0,Active,0
+VEH_0908,14ft LCV,4000,2024-01-10,23.2,1,Active,0
+VEH_0909,14ft LCV,4000,2024-09-11,30.2,2,Active,0
+VEH_0910,14ft LCV,4000,2024-02-18,15.0,0,Active,1
+VEH_0911,14ft LCV,4000,2024-06-24,21.9,1,Active,0
+VEH_0912,14ft LCV,4000,2024-06-13,2.0,0,Active,0
+VEH_0913,14ft LCV,4000,2024-01-08,10.9,1,Active,0
+VEH_0914,14ft LCV,4000,2024-12-28,49.9,2,Maintenance,0
+VEH_0915,14ft LCV,4000,2024-11-02,133.0,5,Breakdown,1
+VEH_0916,14ft LCV,4000,2024-11-10,2.0,0,Active,0
+VEH_0917,14ft LCV,4000,2024-11-20,12.0,1,Active,0
+VEH_0918,14ft LCV,4000,2024-11-03,22.3,2,Active,0
+VEH_0919,14ft LCV,4000,2024-05-05,20.7,2,Active,0
+VEH_0920,14ft LCV,4000,2024-03-27,68.3,4,Maintenance,1
+VEH_0921,14ft LCV,4000,2024-08-03,38.1,2,Active,0
+VEH_0922,14ft LCV,4000,2024-01-22,47.4,3,Maintenance,0
+VEH_0923,14ft LCV,4000,2024-05-14,2.0,0,Active,0
+VEH_0924,14ft LCV,4000,2024-10-29,2.0,0,Active,0
+VEH_0925,14ft LCV,4000,2024-09-25,37.8,2,Active,1
+VEH_0926,14ft LCV,4000,2024-01-10,2.0,0,Active,0
+VEH_0927,14ft LCV,4000,2024-09-18,25.9,1,Active,0
+VEH_0928,14ft LCV,4000,2024-08-10,2.0,0,Active,0
+VEH_0929,14ft LCV,4000,2024-06-26,11.3,1,Active,0
+VEH_0930,14ft LCV,4000,2024-08-07,173.6,7,Breakdown,1
+VEH_0931,14ft LCV,4000,2024-04-23,2.0,0,Active,0
+VEH_0932,14ft LCV,4000,2024-07-19,2.0,0,Active,0
+VEH_0933,14ft LCV,4000,2024-04-16,2.0,0,Active,0
+VEH_0934,14ft LCV,4000,2024-12-24,19.2,1,Active,0
+VEH_0935,14ft LCV,4000,2024-09-09,40.3,2,Maintenance,1
+VEH_0936,14ft LCV,4000,2024-09-04,25.1,1,Active,0
+VEH_0937,14ft LCV,4000,2024-01-08,2.0,0,Active,0
+VEH_0938,14ft LCV,4000,2024-04-09,2.0,0,Active,0
+VEH_0939,14ft LCV,4000,2024-10-19,29.0,2,Active,0
+VEH_0940,14ft LCV,4000,2024-04-12,58.5,3,Maintenance,1
+VEH_0941,14ft LCV,4000,2024-09-18,2.0,0,Active,0
+VEH_0942,14ft LCV,4000,2024-12-22,2.0,0,Active,0
+VEH_0943,14ft LCV,4000,2024-12-07,37.3,2,Active,0
+VEH_0944,14ft LCV,4000,2024-02-24,20.5,1,Active,0
+VEH_0945,14ft LCV,4000,2024-12-20,115.3,5,Breakdown,1
+VEH_0946,14ft LCV,4000,2024-07-10,2.0,0,Active,0
+VEH_0947,14ft LCV,4000,2024-04-16,15.3,1,Active,0
+VEH_0948,14ft LCV,4000,2024-04-15,2.0,0,Active,0
+VEH_0949,14ft LCV,4000,2024-05-09,14.0,1,Active,0
+VEH_0950,14ft LCV,4000,2024-04-08,62.6,5,Breakdown,1
+VEH_0951,14ft LCV,4000,2024-06-29,2.0,0,Active,0
+VEH_0952,14ft LCV,4000,2024-04-27,23.6,1,Active,0
+VEH_0953,14ft LCV,4000,2024-08-17,2.0,0,Active,0
+VEH_0954,14ft LCV,4000,2024-07-21,2.0,0,Active,0
+VEH_0955,14ft LCV,4000,2024-09-02,44.0,3,Maintenance,1
+VEH_0956,14ft LCV,4000,2024-04-06,2.0,0,Active,0
+VEH_0957,14ft LCV,4000,2024-04-07,21.6,1,Active,0
+VEH_0958,14ft LCV,4000,2024-06-11,2.0,0,Active,0
+VEH_0959,14ft LCV,4000,2024-03-06,33.9,2,Active,0
+VEH_0960,14ft LCV,4000,2024-06-21,15.0,0,Active,1
+VEH_0961,14ft LCV,4000,2024-07-11,12.6,1,Active,0
+VEH_0962,14ft LCV,4000,2024-05-28,13.8,1,Active,0
+VEH_0963,14ft LCV,4000,2024-02-01,2.0,0,Active,0
+VEH_0964,14ft LCV,4000,2024-03-21,2.0,0,Active,0
+VEH_0965,14ft LCV,4000,2024-02-04,45.0,3,Maintenance,1
+VEH_0966,14ft LCV,4000,2024-09-20,2.0,0,Active,0
+VEH_0967,14ft LCV,4000,2024-05-09,12.1,1,Active,0
+VEH_0968,14ft LCV,4000,2024-01-13,2.0,0,Active,0
+VEH_0969,14ft LCV,4000,2024-04-22,18.1,1,Active,0
+VEH_0970,14ft LCV,4000,2024-12-19,45.6,2,Maintenance,1
+VEH_0971,14ft LCV,4000,2024-05-14,2.0,0,Active,0
+VEH_0972,14ft LCV,4000,2024-04-11,25.8,1,Active,0
+VEH_0973,14ft LCV,4000,2024-03-04,2.0,0,Active,0
+VEH_0974,14ft LCV,4000,2024-06-26,2.0,0,Active,0
+VEH_0975,14ft LCV,4000,2024-02-25,107.7,4,Maintenance,1
+VEH_0976,14ft LCV,4000,2024-11-03,2.0,0,Active,0
+VEH_0977,14ft LCV,4000,2024-05-07,11.9,1,Active,0
+VEH_0978,14ft LCV,4000,2024-07-18,2.0,0,Active,0
+VEH_0979,14ft LCV,4000,2024-03-21,23.1,1,Active,0
+VEH_0980,14ft LCV,4000,2024-02-15,103.7,6,Breakdown,1
+VEH_0981,14ft LCV,4000,2024-10-23,2.0,0,Active,0
+VEH_0982,14ft LCV,4000,2024-10-23,15.7,1,Active,0
+VEH_0983,14ft LCV,4000,2024-07-12,2.0,0,Active,0
+VEH_0984,14ft LCV,4000,2024-02-07,19.7,1,Active,0
+VEH_0985,14ft LCV,4000,2024-05-09,76.8,4,Maintenance,1
+VEH_0986,14ft LCV,4000,2024-02-10,12.5,1,Active,0
+VEH_0987,14ft LCV,4000,2024-03-31,17.8,1,Active,0
+VEH_0988,14ft LCV,4000,2024-10-04,24.4,1,Active,0
+VEH_0989,14ft LCV,4000,2024-04-23,40.2,3,Maintenance,0
+VEH_0990,14ft LCV,4000,2024-08-28,149.7,7,Breakdown,1
+VEH_0991,14ft LCV,4000,2024-01-18,16.1,1,Active,0
+VEH_0992,14ft LCV,4000,2024-01-13,11.0,1,Active,0
+VEH_0993,14ft LCV,4000,2024-12-19,16.0,1,Active,0
+VEH_0994,14ft LCV,4000,2024-04-05,2.0,0,Active,0
+VEH_0995,14ft LCV,4000,2024-10-11,78.8,3,Maintenance,1
+VEH_0996,14ft LCV,4000,2024-06-05,2.0,0,Active,0
+VEH_0997,14ft LCV,4000,2024-12-01,11.5,1,Active,0
+VEH_0998,14ft LCV,4000,2024-10-26,18.2,1,Active,0
+VEH_0999,14ft LCV,4000,2024-08-23,59.6,3,Maintenance,0
+VEH_1000,14ft LCV,4000,2024-09-12,117.8,6,Breakdown,1
+VEH_1001,14ft LCV,4000,2024-04-29,22.9,2,Active,0
+VEH_1002,14ft LCV,4000,2024-11-22,2.0,0,Active,0
+VEH_1003,14ft LCV,4000,2024-10-14,21.2,1,Active,0
+VEH_1004,14ft LCV,4000,2024-08-03,16.8,1,Active,0
+VEH_1005,14ft LCV,4000,2024-05-30,24.1,1,Active,1
+VEH_1006,14ft LCV,4000,2024-06-28,13.7,1,Active,0
+VEH_1007,14ft LCV,4000,2024-12-11,23.8,1,Active,0
+VEH_1008,14ft LCV,4000,2024-01-24,2.0,0,Active,0
+VEH_1009,14ft LCV,4000,2024-06-10,2.0,0,Active,0
+VEH_1010,14ft LCV,4000,2024-09-18,122.1,5,Breakdown,1
+VEH_1011,14ft LCV,4000,2024-09-03,2.0,0,Active,0
+VEH_1012,14ft LCV,4000,2024-01-09,24.4,2,Active,0
+VEH_1013,14ft LCV,4000,2024-09-02,39.3,2,Active,0
+VEH_1014,14ft LCV,4000,2024-03-31,13.7,1,Active,0
+VEH_1015,14ft LCV,4000,2024-03-07,41.5,3,Maintenance,1
+VEH_1016,14ft LCV,4000,2024-09-03,23.6,1,Active,0
+VEH_1017,14ft LCV,4000,2024-02-10,2.0,0,Active,0
+VEH_1018,14ft LCV,4000,2024-05-25,13.8,1,Active,0
+VEH_1019,14ft LCV,4000,2024-07-09,23.8,1,Active,0
+VEH_1020,14ft LCV,4000,2024-12-19,32.4,2,Active,1
+VEH_1021,14ft LCV,4000,2024-03-23,17.6,1,Active,0
+VEH_1022,14ft LCV,4000,2024-04-15,13.1,1,Active,0
+VEH_1023,14ft LCV,4000,2024-06-19,10.2,1,Active,0
+VEH_1024,14ft LCV,4000,2024-01-04,18.5,1,Active,0
+VEH_1025,14ft LCV,4000,2024-08-31,54.1,2,Maintenance,1
+VEH_1026,14ft LCV,4000,2024-09-22,23.1,1,Active,0
+VEH_1027,14ft LCV,4000,2024-03-12,2.0,0,Active,0
+VEH_1028,14ft LCV,4000,2024-07-01,2.0,0,Active,0
+VEH_1029,14ft LCV,4000,2024-10-15,2.0,0,Active,0
+VEH_1030,14ft LCV,4000,2024-12-10,100.6,5,Breakdown,1
+VEH_1031,14ft LCV,4000,2024-01-22,39.6,3,Active,0
+VEH_1032,14ft LCV,4000,2024-12-25,14.4,1,Active,0
+VEH_1033,14ft LCV,4000,2024-10-25,2.0,0,Active,0
+VEH_1034,14ft LCV,4000,2024-03-30,2.0,0,Active,0
+VEH_1035,14ft LCV,4000,2024-03-24,37.3,2,Active,1
+VEH_1036,14ft LCV,4000,2024-04-10,2.0,0,Active,0
+VEH_1037,14ft LCV,4000,2024-11-10,2.0,0,Active,0
+VEH_1038,14ft LCV,4000,2024-04-08,2.0,0,Active,0
+VEH_1039,14ft LCV,4000,2024-10-01,2.0,0,Active,0
+VEH_1040,14ft LCV,4000,2024-08-29,105.7,5,Breakdown,1
+VEH_1041,14ft LCV,4000,2024-07-15,2.0,0,Active,0
+VEH_1042,14ft LCV,4000,2024-07-04,2.0,0,Active,0
+VEH_1043,14ft LCV,4000,2024-07-12,63.9,3,Maintenance,0
+VEH_1044,14ft LCV,4000,2024-03-12,40.0,2,Active,0
+VEH_1045,14ft LCV,4000,2024-09-26,41.0,3,Maintenance,1
+VEH_1046,14ft LCV,4000,2024-03-12,2.0,0,Active,0
+VEH_1047,14ft LCV,4000,2024-12-26,11.2,1,Active,0
+VEH_1048,14ft LCV,4000,2024-01-08,15.8,1,Active,0
+VEH_1049,14ft LCV,4000,2024-12-28,20.2,1,Active,0
+VEH_1050,14ft LCV,4000,2024-12-09,137.5,6,Breakdown,1
+VEH_1051,14ft LCV,4000,2024-03-29,2.0,0,Active,0
+VEH_1052,14ft LCV,4000,2024-11-21,60.6,4,Maintenance,0
+VEH_1053,14ft LCV,4000,2024-05-13,2.0,0,Active,0
+VEH_1054,14ft LCV,4000,2024-01-12,10.8,1,Active,0
+VEH_1055,14ft LCV,4000,2024-10-19,36.9,2,Active,1
+VEH_1056,14ft LCV,4000,2024-10-06,2.0,0,Active,0
+VEH_1057,14ft LCV,4000,2024-10-21,22.9,1,Active,0
+VEH_1058,14ft LCV,4000,2024-03-02,16.3,1,Active,0
+VEH_1059,14ft LCV,4000,2024-05-01,11.4,1,Active,0
+VEH_1060,14ft LCV,4000,2024-03-16,80.1,4,Maintenance,1
+VEH_1061,14ft LCV,4000,2024-02-27,47.0,2,Maintenance,0
+VEH_1062,14ft LCV,4000,2024-04-17,2.0,0,Active,0
+VEH_1063,14ft LCV,4000,2024-01-16,22.3,1,Active,0
+VEH_1064,14ft LCV,4000,2024-06-03,2.0,0,Active,0
+VEH_1065,14ft LCV,4000,2024-11-29,125.1,6,Breakdown,1
+VEH_1066,14ft LCV,4000,2024-07-26,2.0,0,Active,0
+VEH_1067,14ft LCV,4000,2024-08-27,21.7,1,Active,0
+VEH_1068,14ft LCV,4000,2024-09-24,37.2,2,Active,0
+VEH_1069,14ft LCV,4000,2024-01-30,23.0,1,Active,0
+VEH_1070,14ft LCV,4000,2024-07-02,65.6,3,Maintenance,1
+VEH_1071,14ft LCV,4000,2024-12-26,2.0,0,Active,0
+VEH_1072,14ft LCV,4000,2024-11-17,16.1,1,Active,0
+VEH_1073,14ft LCV,4000,2024-12-15,22.1,1,Active,0
+VEH_1074,14ft LCV,4000,2024-03-23,10.0,1,Active,0
+VEH_1075,14ft LCV,4000,2024-05-13,133.8,5,Breakdown,1
+VEH_1076,14ft LCV,4000,2024-06-30,2.0,0,Active,0
+VEH_1077,14ft LCV,4000,2024-09-19,16.3,1,Active,0
+VEH_1078,14ft LCV,4000,2024-11-20,2.0,0,Active,0
+VEH_1079,14ft LCV,4000,2024-06-09,11.8,1,Active,0
+VEH_1080,14ft LCV,4000,2024-12-13,50.5,2,Maintenance,1
+VEH_1081,14ft LCV,4000,2024-02-03,12.3,1,Active,0
+VEH_1082,14ft LCV,4000,2024-07-12,23.7,1,Active,0
+VEH_1083,14ft LCV,4000,2024-02-23,21.4,1,Active,0
+VEH_1084,14ft LCV,4000,2024-09-19,38.9,2,Active,0
+VEH_1085,14ft LCV,4000,2024-03-08,41.3,2,Maintenance,1
+VEH_1086,14ft LCV,4000,2024-01-22,16.5,1,Active,0
+VEH_1087,14ft LCV,4000,2024-11-18,21.5,1,Active,0
+VEH_1088,14ft LCV,4000,2024-09-21,17.7,1,Active,0
+VEH_1089,14ft LCV,4000,2024-12-26,2.0,0,Active,0
+VEH_1090,14ft LCV,4000,2024-04-06,43.3,3,Maintenance,1
+VEH_1091,14ft LCV,4000,2024-03-30,2.0,0,Active,0
+VEH_1092,14ft LCV,4000,2024-06-30,2.0,0,Active,0
+VEH_1093,14ft LCV,4000,2024-09-19,25.9,1,Active,0
+VEH_1094,14ft LCV,4000,2024-01-16,25.3,2,Active,0
+VEH_1095,14ft LCV,4000,2024-04-16,58.3,5,Maintenance,1
+VEH_1096,14ft LCV,4000,2024-05-03,75.3,4,Maintenance,0
+VEH_1097,14ft LCV,4000,2024-07-04,2.0,0,Active,0
+VEH_1098,14ft LCV,4000,2024-05-04,2.0,0,Active,0
+VEH_1099,14ft LCV,4000,2024-01-14,44.3,2,Maintenance,0
+VEH_1100,14ft LCV,4000,2024-09-07,101.8,4,Maintenance,1
+VEH_1101,Tata Ace / Mini Truck,1200,2024-07-10,2.0,0,Active,0
+VEH_1102,Tata Ace / Mini Truck,1200,2024-01-31,2.0,0,Active,0
+VEH_1103,Tata Ace / Mini Truck,1200,2024-10-05,2.0,0,Active,0
+VEH_1104,Tata Ace / Mini Truck,1200,2024-07-30,2.0,0,Active,0
+VEH_1105,Tata Ace / Mini Truck,1200,2024-12-21,124.8,5,Breakdown,1
+VEH_1106,Tata Ace / Mini Truck,1200,2024-01-25,94.5,4,Maintenance,0
+VEH_1107,Tata Ace / Mini Truck,1200,2024-04-18,30.0,2,Active,0
+VEH_1108,Tata Ace / Mini Truck,1200,2024-07-07,25.4,2,Active,0
+VEH_1109,Tata Ace / Mini Truck,1200,2024-11-22,28.0,2,Active,0
+VEH_1110,Tata Ace / Mini Truck,1200,2024-05-08,47.4,3,Maintenance,1
+VEH_1111,Tata Ace / Mini Truck,1200,2024-08-19,19.6,1,Active,0
+VEH_1112,Tata Ace / Mini Truck,1200,2024-06-10,10.1,1,Active,0
+VEH_1113,Tata Ace / Mini Truck,1200,2024-06-09,2.0,0,Active,0
+VEH_1114,Tata Ace / Mini Truck,1200,2024-09-13,16.5,1,Active,0
+VEH_1115,Tata Ace / Mini Truck,1200,2024-10-21,68.8,4,Maintenance,1
+VEH_1116,Tata Ace / Mini Truck,1200,2024-09-29,23.9,1,Active,0
+VEH_1117,Tata Ace / Mini Truck,1200,2024-07-11,18.6,1,Active,0
+VEH_1118,Tata Ace / Mini Truck,1200,2024-01-12,36.9,2,Active,0
+VEH_1119,Tata Ace / Mini Truck,1200,2024-09-13,14.9,1,Active,0
+VEH_1120,Tata Ace / Mini Truck,1200,2024-09-18,39.3,3,Active,1
+VEH_1121,Tata Ace / Mini Truck,1200,2024-11-10,2.0,0,Active,0
+VEH_1122,Tata Ace / Mini Truck,1200,2024-06-22,24.6,1,Active,0
+VEH_1123,Tata Ace / Mini Truck,1200,2024-11-23,2.0,0,Active,0
+VEH_1124,Tata Ace / Mini Truck,1200,2024-05-13,26.3,2,Active,0
+VEH_1125,Tata Ace / Mini Truck,1200,2024-06-09,54.6,3,Maintenance,1
+VEH_1126,Tata Ace / Mini Truck,1200,2024-01-03,2.0,0,Active,0
+VEH_1127,Tata Ace / Mini Truck,1200,2024-11-29,2.0,0,Active,0
+VEH_1128,Tata Ace / Mini Truck,1200,2024-12-16,43.0,2,Maintenance,0
+VEH_1129,Tata Ace / Mini Truck,1200,2024-04-24,2.0,0,Active,0
+VEH_1130,Tata Ace / Mini Truck,1200,2024-09-13,74.0,3,Maintenance,1
+VEH_1131,Tata Ace / Mini Truck,1200,2024-05-08,20.2,1,Active,0
+VEH_1132,Tata Ace / Mini Truck,1200,2024-06-29,2.0,0,Active,0
+VEH_1133,Tata Ace / Mini Truck,1200,2024-03-11,27.0,2,Active,0
+VEH_1134,Tata Ace / Mini Truck,1200,2024-09-29,2.0,0,Active,0
+VEH_1135,Tata Ace / Mini Truck,1200,2024-08-03,87.6,6,Breakdown,1
+VEH_1136,Tata Ace / Mini Truck,1200,2024-01-19,33.0,3,Active,0
+VEH_1137,Tata Ace / Mini Truck,1200,2024-10-14,2.0,0,Active,0
+VEH_1138,Tata Ace / Mini Truck,1200,2024-04-21,2.0,0,Active,0
+VEH_1139,Tata Ace / Mini Truck,1200,2024-03-02,2.0,0,Active,0
+VEH_1140,Tata Ace / Mini Truck,1200,2024-02-28,60.1,4,Maintenance,1
+VEH_1141,Tata Ace / Mini Truck,1200,2024-12-19,2.0,0,Active,0
+VEH_1142,Tata Ace / Mini Truck,1200,2024-04-23,11.0,1,Active,0
+VEH_1143,Tata Ace / Mini Truck,1200,2024-09-13,2.0,0,Active,0
+VEH_1144,Tata Ace / Mini Truck,1200,2024-08-15,46.3,2,Maintenance,0
+VEH_1145,Tata Ace / Mini Truck,1200,2024-03-25,68.3,3,Maintenance,1
+VEH_1146,Tata Ace / Mini Truck,1200,2024-10-25,16.4,1,Active,0
+VEH_1147,Tata Ace / Mini Truck,1200,2024-10-23,16.7,1,Active,0
+VEH_1148,Tata Ace / Mini Truck,1200,2024-12-09,2.0,0,Active,0
+VEH_1149,Tata Ace / Mini Truck,1200,2024-09-30,2.0,0,Active,0
+VEH_1150,Tata Ace / Mini Truck,1200,2024-08-27,34.7,1,Active,1
+VEH_1151,Tata Ace / Mini Truck,1200,2024-03-19,2.0,0,Active,0
+VEH_1152,Tata Ace / Mini Truck,1200,2024-07-18,2.0,0,Active,0
+VEH_1153,Tata Ace / Mini Truck,1200,2024-07-20,20.4,2,Active,0
+VEH_1154,Tata Ace / Mini Truck,1200,2024-09-15,2.0,0,Active,0
+VEH_1155,Tata Ace / Mini Truck,1200,2024-01-20,36.4,2,Active,1
+VEH_1156,Tata Ace / Mini Truck,1200,2024-07-30,2.0,0,Active,0
+VEH_1157,Tata Ace / Mini Truck,1200,2024-05-21,12.7,1,Active,0
+VEH_1158,Tata Ace / Mini Truck,1200,2024-06-28,17.6,1,Active,0
+VEH_1159,Tata Ace / Mini Truck,1200,2024-06-03,15.9,1,Active,0
+VEH_1160,Tata Ace / Mini Truck,1200,2024-11-10,35.5,2,Active,1
+VEH_1161,Tata Ace / Mini Truck,1200,2024-10-18,24.0,1,Active,0
+VEH_1162,Tata Ace / Mini Truck,1200,2024-08-10,18.4,1,Active,0
+VEH_1163,Tata Ace / Mini Truck,1200,2024-11-19,26.5,2,Active,0
+VEH_1164,Tata Ace / Mini Truck,1200,2024-10-06,61.7,3,Maintenance,0
+VEH_1165,Tata Ace / Mini Truck,1200,2024-10-24,45.2,2,Maintenance,1
+VEH_1166,Tata Ace / Mini Truck,1200,2024-07-27,15.6,1,Active,0
+VEH_1167,Tata Ace / Mini Truck,1200,2024-12-26,2.0,0,Active,0
+VEH_1168,Tata Ace / Mini Truck,1200,2024-08-01,2.0,0,Active,0
+VEH_1169,Tata Ace / Mini Truck,1200,2024-09-29,12.6,1,Active,0
+VEH_1170,Tata Ace / Mini Truck,1200,2024-02-02,66.1,4,Maintenance,1
+VEH_1171,Tata Ace / Mini Truck,1200,2024-05-02,16.8,1,Active,0
+VEH_1172,Tata Ace / Mini Truck,1200,2024-03-04,15.0,1,Active,0
+VEH_1173,Tata Ace / Mini Truck,1200,2024-05-01,39.5,3,Active,0
+VEH_1174,Tata Ace / Mini Truck,1200,2024-06-03,2.0,0,Active,0
+VEH_1175,Tata Ace / Mini Truck,1200,2024-07-09,56.1,4,Maintenance,1
+VEH_1176,Tata Ace / Mini Truck,1200,2024-02-18,2.0,0,Active,0
+VEH_1177,Tata Ace / Mini Truck,1200,2024-01-17,2.0,0,Active,0
+VEH_1178,Tata Ace / Mini Truck,1200,2024-12-19,14.2,1,Active,0
+VEH_1179,Tata Ace / Mini Truck,1200,2024-09-28,34.4,2,Active,0
+VEH_1180,Tata Ace / Mini Truck,1200,2024-09-30,68.4,3,Maintenance,1
+VEH_1181,Tata Ace / Mini Truck,1200,2024-05-03,18.7,1,Active,0
+VEH_1182,Tata Ace / Mini Truck,1200,2024-12-01,14.4,1,Active,0
+VEH_1183,Tata Ace / Mini Truck,1200,2024-08-19,19.9,1,Active,0
+VEH_1184,Tata Ace / Mini Truck,1200,2024-03-24,2.0,0,Active,0
+VEH_1185,Tata Ace / Mini Truck,1200,2024-12-29,162.9,7,Breakdown,1
+VEH_1186,Tata Ace / Mini Truck,1200,2024-09-20,2.0,0,Active,0
+VEH_1187,Tata Ace / Mini Truck,1200,2024-06-25,2.0,0,Active,0
+VEH_1188,Tata Ace / Mini Truck,1200,2024-07-07,31.8,3,Active,0
+VEH_1189,Tata Ace / Mini Truck,1200,2024-01-03,22.0,2,Active,0
+VEH_1190,Tata Ace / Mini Truck,1200,2024-09-16,15.0,0,Active,1
+VEH_1191,Tata Ace / Mini Truck,1200,2024-02-20,2.0,0,Active,0
+VEH_1192,Tata Ace / Mini Truck,1200,2024-09-09,2.0,0,Active,0
+VEH_1193,Tata Ace / Mini Truck,1200,2024-12-18,31.2,2,Active,0
+VEH_1194,Tata Ace / Mini Truck,1200,2024-01-19,2.0,0,Active,0
+VEH_1195,Tata Ace / Mini Truck,1200,2024-12-09,106.8,4,Maintenance,1
+VEH_1196,Tata Ace / Mini Truck,1200,2024-04-02,2.0,0,Active,0
+VEH_1197,Tata Ace / Mini Truck,1200,2024-10-22,2.0,0,Active,0
+VEH_1198,Tata Ace / Mini Truck,1200,2024-06-30,15.1,1,Active,0
+VEH_1199,Tata Ace / Mini Truck,1200,2024-04-05,2.0,0,Active,0
+VEH_1200,Tata Ace / Mini Truck,1200,2024-04-15,113.4,7,Breakdown,1
+VEH_1201,Tata Ace / Mini Truck,1200,2024-11-01,19.9,1,Active,0
+VEH_1202,Tata Ace / Mini Truck,1200,2024-02-22,2.0,0,Active,0
+VEH_1203,Tata Ace / Mini Truck,1200,2024-10-19,2.0,0,Active,0
+VEH_1204,Tata Ace / Mini Truck,1200,2024-10-27,2.0,0,Active,0
+VEH_1205,Tata Ace / Mini Truck,1200,2024-08-08,190.5,8,Breakdown,1
+VEH_1206,Tata Ace / Mini Truck,1200,2024-05-31,12.6,1,Active,0
+VEH_1207,Tata Ace / Mini Truck,1200,2024-06-12,2.0,0,Active,0
+VEH_1208,Tata Ace / Mini Truck,1200,2024-06-17,2.0,0,Active,0
+VEH_1209,Tata Ace / Mini Truck,1200,2024-02-12,47.7,2,Maintenance,0
+VEH_1210,Tata Ace / Mini Truck,1200,2024-06-01,56.9,3,Maintenance,1
+VEH_1211,Tata Ace / Mini Truck,1200,2024-07-15,2.0,0,Active,0
+VEH_1212,Tata Ace / Mini Truck,1200,2024-04-19,2.0,0,Active,0
+VEH_1213,Tata Ace / Mini Truck,1200,2024-03-30,12.5,1,Active,0
+VEH_1214,Tata Ace / Mini Truck,1200,2024-01-04,2.0,0,Active,0
+VEH_1215,Tata Ace / Mini Truck,1200,2024-11-29,64.5,6,Breakdown,1
+VEH_1216,Tata Ace / Mini Truck,1200,2024-01-30,41.2,2,Maintenance,0
+VEH_1217,Tata Ace / Mini Truck,1200,2024-04-15,2.0,0,Active,0
+VEH_1218,Tata Ace / Mini Truck,1200,2024-04-10,2.0,0,Active,0
+VEH_1219,Tata Ace / Mini Truck,1200,2024-06-27,41.9,2,Maintenance,0
+VEH_1220,Tata Ace / Mini Truck,1200,2024-07-10,50.2,4,Maintenance,1
+VEH_1221,Tata Ace / Mini Truck,1200,2024-12-16,2.0,0,Active,0
+VEH_1222,Tata Ace / Mini Truck,1200,2024-04-24,2.0,0,Active,0
+VEH_1223,Tata Ace / Mini Truck,1200,2024-11-29,2.0,0,Active,0
+VEH_1224,Tata Ace / Mini Truck,1200,2024-05-26,20.1,1,Active,0
+VEH_1225,Tata Ace / Mini Truck,1200,2024-04-21,32.5,1,Active,1
+VEH_1226,Tata Ace / Mini Truck,1200,2024-02-24,14.6,1,Active,0
+VEH_1227,Tata Ace / Mini Truck,1200,2024-11-09,2.0,0,Active,0
+VEH_1228,Tata Ace / Mini Truck,1200,2024-03-16,20.9,1,Active,0
+VEH_1229,Tata Ace / Mini Truck,1200,2024-05-14,2.0,0,Active,0
+VEH_1230,Tata Ace / Mini Truck,1200,2024-11-18,51.4,2,Maintenance,1
+VEH_1231,Tata Ace / Mini Truck,1200,2024-10-01,2.0,0,Active,0
+VEH_1232,Tata Ace / Mini Truck,1200,2024-07-19,22.1,2,Active,0
+VEH_1233,Tata Ace / Mini Truck,1200,2024-04-28,21.5,1,Active,0
+VEH_1234,Tata Ace / Mini Truck,1200,2024-01-14,15.0,1,Active,0
+VEH_1235,Tata Ace / Mini Truck,1200,2024-10-08,28.0,1,Active,1
+VEH_1236,Tata Ace / Mini Truck,1200,2024-10-13,12.1,1,Active,0
+VEH_1237,Tata Ace / Mini Truck,1200,2024-01-26,2.0,0,Active,0
+VEH_1238,Tata Ace / Mini Truck,1200,2024-07-26,15.1,1,Active,0
+VEH_1239,Tata Ace / Mini Truck,1200,2024-04-26,2.0,0,Active,0
+VEH_1240,Tata Ace / Mini Truck,1200,2024-11-07,91.2,9,Breakdown,1
+VEH_1241,Tata Ace / Mini Truck,1200,2024-02-03,2.0,0,Active,0
+VEH_1242,Tata Ace / Mini Truck,1200,2024-04-03,22.6,1,Active,0
+VEH_1243,Tata Ace / Mini Truck,1200,2024-08-11,14.5,1,Active,0
+VEH_1244,Tata Ace / Mini Truck,1200,2024-04-08,20.9,1,Active,0
+VEH_1245,Tata Ace / Mini Truck,1200,2024-09-20,32.0,1,Active,1
+VEH_1246,Tata Ace / Mini Truck,1200,2024-06-22,2.0,0,Active,0
+VEH_1247,Tata Ace / Mini Truck,1200,2024-01-28,25.9,1,Active,0
+VEH_1248,Tata Ace / Mini Truck,1200,2024-10-28,18.3,1,Active,0
+VEH_1249,Tata Ace / Mini Truck,1200,2024-10-02,2.0,0,Active,0
+VEH_1250,Tata Ace / Mini Truck,1200,2024-07-12,97.0,4,Maintenance,1
+VEH_1251,Tata Ace / Mini Truck,1200,2024-10-13,14.9,1,Active,0
+VEH_1252,Tata Ace / Mini Truck,1200,2024-06-15,2.0,0,Active,0
+VEH_1253,Tata Ace / Mini Truck,1200,2024-01-02,2.0,0,Active,0
+VEH_1254,Tata Ace / Mini Truck,1200,2024-09-08,2.0,0,Active,0
+VEH_1255,Tata Ace / Mini Truck,1200,2024-01-23,62.1,3,Maintenance,1
+VEH_1256,Tata Ace / Mini Truck,1200,2024-11-11,33.6,3,Active,0
+VEH_1257,Tata Ace / Mini Truck,1200,2024-11-30,33.7,2,Active,0
+VEH_1258,Tata Ace / Mini Truck,1200,2024-07-15,2.0,0,Active,0
+VEH_1259,Tata Ace / Mini Truck,1200,2024-06-16,59.1,3,Maintenance,0
+VEH_1260,Tata Ace / Mini Truck,1200,2024-07-01,56.9,2,Maintenance,1
+VEH_1261,Tata Ace / Mini Truck,1200,2024-12-16,21.9,1,Active,0
+VEH_1262,Tata Ace / Mini Truck,1200,2024-09-22,2.0,0,Active,0
+VEH_1263,Tata Ace / Mini Truck,1200,2024-11-22,17.5,1,Active,0
+VEH_1264,Tata Ace / Mini Truck,1200,2024-09-12,25.8,2,Active,0
+VEH_1265,Tata Ace / Mini Truck,1200,2024-11-11,88.5,4,Maintenance,1
+VEH_1266,Tata Ace / Mini Truck,1200,2024-03-04,2.0,0,Active,0
+VEH_1267,Tata Ace / Mini Truck,1200,2024-06-04,66.6,3,Maintenance,0
+VEH_1268,Tata Ace / Mini Truck,1200,2024-02-26,2.0,0,Active,0
+VEH_1269,Tata Ace / Mini Truck,1200,2024-03-13,11.9,1,Active,0
+VEH_1270,Tata Ace / Mini Truck,1200,2024-05-20,80.4,3,Maintenance,1
+VEH_1271,Tata Ace / Mini Truck,1200,2024-12-30,30.2,2,Active,0
+VEH_1272,Tata Ace / Mini Truck,1200,2024-10-24,14.7,1,Active,0
+VEH_1273,Tata Ace / Mini Truck,1200,2024-11-05,31.9,2,Active,0
+VEH_1274,Tata Ace / Mini Truck,1200,2024-02-06,24.6,1,Active,0
+VEH_1275,Tata Ace / Mini Truck,1200,2024-02-10,36.4,2,Active,1
+VEH_1276,Tata Ace / Mini Truck,1200,2024-12-26,2.0,0,Active,0
+VEH_1277,Tata Ace / Mini Truck,1200,2024-08-27,11.3,1,Active,0
+VEH_1278,Tata Ace / Mini Truck,1200,2024-08-12,24.3,2,Active,0
+VEH_1279,Tata Ace / Mini Truck,1200,2024-09-12,18.2,1,Active,0
+VEH_1280,Tata Ace / Mini Truck,1200,2024-11-07,101.2,4,Maintenance,1
+VEH_1281,Tata Ace / Mini Truck,1200,2024-08-13,2.0,0,Active,0
+VEH_1282,Tata Ace / Mini Truck,1200,2024-08-01,20.5,2,Active,0
+VEH_1283,Tata Ace / Mini Truck,1200,2024-11-19,2.0,0,Active,0
+VEH_1284,Tata Ace / Mini Truck,1200,2024-07-22,2.0,0,Active,0
+VEH_1285,Tata Ace / Mini Truck,1200,2024-06-21,42.2,2,Maintenance,1
+VEH_1286,Tata Ace / Mini Truck,1200,2024-01-04,14.6,1,Active,0
+VEH_1287,Tata Ace / Mini Truck,1200,2024-07-03,43.0,3,Maintenance,0
+VEH_1288,Tata Ace / Mini Truck,1200,2024-08-02,2.0,0,Active,0
+VEH_1289,Tata Ace / Mini Truck,1200,2024-08-30,2.0,0,Active,0
+VEH_1290,Tata Ace / Mini Truck,1200,2024-03-09,101.4,7,Breakdown,1
+VEH_1291,Tata Ace / Mini Truck,1200,2024-04-09,22.4,1,Active,0
+VEH_1292,Tata Ace / Mini Truck,1200,2024-09-01,20.5,1,Active,0
+VEH_1293,Tata Ace / Mini Truck,1200,2024-08-05,13.0,1,Active,0
+VEH_1294,Tata Ace / Mini Truck,1200,2024-03-25,2.0,0,Active,0
+VEH_1295,Tata Ace / Mini Truck,1200,2024-06-03,98.2,5,Breakdown,1
+VEH_1296,Tata Ace / Mini Truck,1200,2024-12-08,14.7,1,Active,0
+VEH_1297,Tata Ace / Mini Truck,1200,2024-02-07,62.1,3,Maintenance,0
+VEH_1298,Tata Ace / Mini Truck,1200,2024-07-10,10.1,1,Active,0
+VEH_1299,Tata Ace / Mini Truck,1200,2024-11-09,2.0,0,Active,0
+VEH_1300,Tata Ace / Mini Truck,1200,2024-10-29,86.6,3,Maintenance,1
+VEH_1301,Tata Ace / Mini Truck,1200,2024-09-11,20.0,1,Active,0
+VEH_1302,Tata Ace / Mini Truck,1200,2024-02-04,2.0,0,Active,0
+VEH_1303,Tata Ace / Mini Truck,1200,2024-09-06,16.1,1,Active,0
+VEH_1304,Tata Ace / Mini Truck,1200,2024-12-22,2.0,0,Active,0
+VEH_1305,Tata Ace / Mini Truck,1200,2024-05-13,139.7,6,Breakdown,1
+VEH_1306,Tata Ace / Mini Truck,1200,2024-01-04,38.8,2,Active,0
+VEH_1307,Tata Ace / Mini Truck,1200,2024-06-09,2.0,0,Active,0
+VEH_1308,Tata Ace / Mini Truck,1200,2024-02-12,2.0,0,Active,0
+VEH_1309,Tata Ace / Mini Truck,1200,2024-05-30,17.5,1,Active,0
+VEH_1310,Tata Ace / Mini Truck,1200,2024-12-17,72.5,3,Maintenance,1
+VEH_1311,Tata Ace / Mini Truck,1200,2024-02-03,42.9,2,Maintenance,0
+VEH_1312,Tata Ace / Mini Truck,1200,2024-11-10,2.0,0,Active,0
+VEH_1313,Tata Ace / Mini Truck,1200,2024-02-06,2.0,0,Active,0
+VEH_1314,Tata Ace / Mini Truck,1200,2024-04-10,16.7,1,Active,0
+VEH_1315,Tata Ace / Mini Truck,1200,2024-08-01,50.4,4,Maintenance,1
+VEH_1316,Tata Ace / Mini Truck,1200,2024-04-24,43.2,2,Maintenance,0
+VEH_1317,Tata Ace / Mini Truck,1200,2024-04-23,2.0,0,Active,0
+VEH_1318,Tata Ace / Mini Truck,1200,2024-12-09,2.0,0,Active,0
+VEH_1319,Tata Ace / Mini Truck,1200,2024-03-13,2.0,0,Active,0
+VEH_1320,Tata Ace / Mini Truck,1200,2024-05-26,53.4,4,Maintenance,1
+VEH_1321,Tata Ace / Mini Truck,1200,2024-02-20,16.4,1,Active,0
+VEH_1322,Tata Ace / Mini Truck,1200,2024-05-22,16.4,1,Active,0
+VEH_1323,Tata Ace / Mini Truck,1200,2024-03-19,35.4,3,Active,0
+VEH_1324,Tata Ace / Mini Truck,1200,2024-04-10,37.6,2,Active,0
+VEH_1325,Tata Ace / Mini Truck,1200,2024-12-26,71.8,4,Maintenance,1
+VEH_1326,Tata Ace / Mini Truck,1200,2024-08-02,2.0,0,Active,0
+VEH_1327,Tata Ace / Mini Truck,1200,2024-04-12,11.8,1,Active,0
+VEH_1328,Tata Ace / Mini Truck,1200,2024-05-25,2.0,0,Active,0
+VEH_1329,Tata Ace / Mini Truck,1200,2024-07-14,10.2,1,Active,0
+VEH_1330,Tata Ace / Mini Truck,1200,2024-05-28,70.9,5,Breakdown,1
+VEH_1331,Tata Ace / Mini Truck,1200,2024-12-19,2.0,0,Active,0
+VEH_1332,Tata Ace / Mini Truck,1200,2024-04-30,2.0,0,Active,0
+VEH_1333,Tata Ace / Mini Truck,1200,2024-03-04,21.1,1,Active,0
+VEH_1334,Tata Ace / Mini Truck,1200,2024-11-04,2.0,0,Active,0
+VEH_1335,Tata Ace / Mini Truck,1200,2024-11-22,39.1,2,Active,1
+VEH_1336,Tata Ace / Mini Truck,1200,2024-12-24,2.0,0,Active,0
+VEH_1337,Tata Ace / Mini Truck,1200,2024-06-17,2.0,0,Active,0
+VEH_1338,Tata Ace / Mini Truck,1200,2024-09-14,2.0,0,Active,0
+VEH_1339,Tata Ace / Mini Truck,1200,2024-05-10,19.3,1,Active,0
+VEH_1340,Tata Ace / Mini Truck,1200,2024-03-29,39.6,2,Active,1
+VEH_1341,Tata Ace / Mini Truck,1200,2024-05-26,2.0,0,Active,0
+VEH_1342,Tata Ace / Mini Truck,1200,2024-10-18,10.3,1,Active,0
+VEH_1343,Tata Ace / Mini Truck,1200,2024-11-24,2.0,0,Active,0
+VEH_1344,Tata Ace / Mini Truck,1200,2024-06-05,20.5,2,Active,0
+VEH_1345,Tata Ace / Mini Truck,1200,2024-04-12,43.4,3,Maintenance,1
+VEH_1346,Tata Ace / Mini Truck,1200,2024-06-30,16.1,1,Active,0
+VEH_1347,Tata Ace / Mini Truck,1200,2024-02-20,35.6,2,Active,0
+VEH_1348,Tata Ace / Mini Truck,1200,2024-05-29,2.0,0,Active,0
+VEH_1349,Tata Ace / Mini Truck,1200,2024-03-29,2.0,0,Active,0
+VEH_1350,Tata Ace / Mini Truck,1200,2024-01-02,80.5,5,Breakdown,1
+VEH_1351,Tata Ace / Mini Truck,1200,2024-05-15,2.0,0,Active,0
+VEH_1352,Tata Ace / Mini Truck,1200,2024-05-04,29.0,2,Active,0
+VEH_1353,Tata Ace / Mini Truck,1200,2024-09-08,48.7,2,Maintenance,0
+VEH_1354,Tata Ace / Mini Truck,1200,2024-08-22,2.0,0,Active,0
+VEH_1355,Tata Ace / Mini Truck,1200,2024-08-26,49.0,4,Maintenance,1
+VEH_1356,Tata Ace / Mini Truck,1200,2024-07-04,2.0,0,Active,0
+VEH_1357,Tata Ace / Mini Truck,1200,2024-08-17,42.5,2,Maintenance,0
+VEH_1358,Tata Ace / Mini Truck,1200,2024-04-15,10.1,1,Active,0
+VEH_1359,Tata Ace / Mini Truck,1200,2024-08-18,22.2,1,Active,0
+VEH_1360,Tata Ace / Mini Truck,1200,2024-11-18,36.8,1,Active,1
+VEH_1361,Tata Ace / Mini Truck,1200,2024-11-11,14.8,1,Active,0
+VEH_1362,Tata Ace / Mini Truck,1200,2024-04-13,22.4,2,Active,0
+VEH_1363,Tata Ace / Mini Truck,1200,2024-01-22,19.9,1,Active,0
+VEH_1364,Tata Ace / Mini Truck,1200,2024-01-02,24.0,1,Active,0
+VEH_1365,Tata Ace / Mini Truck,1200,2024-01-13,82.3,5,Breakdown,1
+VEH_1366,Tata Ace / Mini Truck,1200,2024-01-20,19.4,1,Active,0
+VEH_1367,Tata Ace / Mini Truck,1200,2024-10-03,2.0,0,Active,0
+VEH_1368,Tata Ace / Mini Truck,1200,2024-05-10,23.7,1,Active,0
+VEH_1369,Tata Ace / Mini Truck,1200,2024-08-17,2.0,0,Active,0
+VEH_1370,Tata Ace / Mini Truck,1200,2024-02-20,44.1,3,Maintenance,1
+VEH_1371,Tata Ace / Mini Truck,1200,2024-04-30,19.3,1,Active,0
+VEH_1372,Tata Ace / Mini Truck,1200,2024-03-23,17.3,1,Active,0
+VEH_1373,Tata Ace / Mini Truck,1200,2024-06-30,41.4,2,Maintenance,0
+VEH_1374,Tata Ace / Mini Truck,1200,2024-04-19,2.0,0,Active,0
+VEH_1375,Tata Ace / Mini Truck,1200,2024-01-04,66.8,3,Maintenance,1
+VEH_1376,Tata Ace / Mini Truck,1200,2024-04-09,2.0,0,Active,0
+VEH_1377,Tata Ace / Mini Truck,1200,2024-02-05,18.3,1,Active,0
+VEH_1378,Tata Ace / Mini Truck,1200,2024-03-14,23.7,1,Active,0
+VEH_1379,Tata Ace / Mini Truck,1200,2024-10-07,2.0,0,Active,0
+VEH_1380,Tata Ace / Mini Truck,1200,2024-08-02,29.6,1,Active,1
+VEH_1381,Tata Ace / Mini Truck,1200,2024-10-27,2.0,0,Active,0
+VEH_1382,Tata Ace / Mini Truck,1200,2024-03-20,30.4,2,Active,0
+VEH_1383,Tata Ace / Mini Truck,1200,2024-08-16,38.3,2,Active,0
+VEH_1384,Tata Ace / Mini Truck,1200,2024-04-09,2.0,0,Active,0
+VEH_1385,Tata Ace / Mini Truck,1200,2024-07-08,42.4,2,Maintenance,1
+VEH_1386,Tata Ace / Mini Truck,1200,2024-11-30,18.6,1,Active,0
+VEH_1387,Tata Ace / Mini Truck,1200,2024-05-28,2.0,0,Active,0
+VEH_1388,Tata Ace / Mini Truck,1200,2024-04-03,47.8,2,Maintenance,0
+VEH_1389,Tata Ace / Mini Truck,1200,2024-01-27,2.0,0,Active,0
+VEH_1390,Tata Ace / Mini Truck,1200,2024-04-22,139.4,6,Breakdown,1
+VEH_1391,Tata Ace / Mini Truck,1200,2024-01-03,25.8,1,Active,0
+VEH_1392,Tata Ace / Mini Truck,1200,2024-01-07,71.6,3,Maintenance,0
+VEH_1393,Tata Ace / Mini Truck,1200,2024-06-25,2.0,0,Active,0
+VEH_1394,Tata Ace / Mini Truck,1200,2024-03-28,2.0,0,Active,0
+VEH_1395,Tata Ace / Mini Truck,1200,2024-03-12,108.0,6,Breakdown,1
+VEH_1396,Tata Ace / Mini Truck,1200,2024-09-11,34.0,2,Active,0
+VEH_1397,Tata Ace / Mini Truck,1200,2024-08-12,21.1,1,Active,0
+VEH_1398,Tata Ace / Mini Truck,1200,2024-05-18,2.0,0,Active,0
+VEH_1399,Tata Ace / Mini Truck,1200,2024-05-29,2.0,0,Active,0
+VEH_1400,Tata Ace / Mini Truck,1200,2024-10-27,80.2,3,Maintenance,1

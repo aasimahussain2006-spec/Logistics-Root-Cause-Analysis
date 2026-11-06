@@ -1,0 +1,9 @@
+Driver Category,Metric,Impact (pp),Share of Decline (%),Nature
+Headline Baseline OTD (Q1-Q2),90.07%,0.0,0.0,Benchmark
+Warehouse Processing Delays (HUB_DHU/TRT),-4.76 pp,-4.76,18.5,Operational Bottleneck
+Route Inefficiencies (NH16/Kona Congestion),-4.13 pp,-4.13,16.0,Infrastructure Transit
+Fleet Maintenance & Breakdown Failures,-3.97 pp,-3.97,15.4,Fleet Reliability
+Commercial Service Mix Shift (Tight SLAs),-7.71 pp,-7.71,29.9,Commercial Portfolio
+Seasonal Festive Demand Surge (Durga Puja),-3.41 pp,-3.41,13.2,Temporal Volume Shock
+Unexplained Residual / Random Variance,-1.81 pp,-1.81,7.0,Residual
+Current Headline OTD (Q3-Q4),64.28%,-25.788955618124945,100.0,Outcome

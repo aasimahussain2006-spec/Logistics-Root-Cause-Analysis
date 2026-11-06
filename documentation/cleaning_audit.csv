@@ -1,0 +1,10 @@
+step,table_name,original_record_count,records_affected,transformation_performed,records_retained,records_excluded,reason_for_exclusion
+1.1_Deduplication,raw_shipments,355250,3247,Exact duplicate removal on all shipment attributes,352003,3247,Redundant transmission / double payload ingestion
+1.2_Type_Sanitization,raw_shipments,352003,21120,Regex extraction of numeric values from 'kg' and 'INR' strings,352003,0,Standardized string measurements into numeric IEEE 754 floats
+1.3_Category_Normalization,raw_shipments,352003,17600,Mapped informal abbreviations and casing into standard taxonomy,352003,0,Unified operational categorization across enterprise reporting
+1.4_Hub_Entity_Reconciliation,raw_shipments,352003,15840,Reconciled deprecated pre-merger facility IDs using hub_mapping reference,352003,0,Entity resolution aligning legacy facility logs with canonical master data
+1.5_Chronological_Integrity,raw_shipments,352003,2450,Quarantine and exclusion of physically impossible delivery timestamps,349553,2450,Actual delivery timestamp preceded dispatch or contained corrupt year 2099
+1.6_PK_Deduplication,raw_shipments,349553,1932,Primary key deduplication on shipment_id keeping first valid record,347621,1932,Removed redundant shipments sharing duplicate consignment IDs
+1.6_Referential_Integrity,raw_shipments,347621,2738,Deterministic foreign-key resolution for orphaned route and vehicle IDs,347621,0,Repaired missing foreign keys using hub coordinates and fleet pool mapping
+2.1_Scans_Deduplication,raw_warehouse_scans,1190000,22111,Deduplication of repeated RFID scan pulses,1167889,22111,Automated barcode scanner retry duplication
+2.2_Scan_Chronological_Reconstruction,raw_warehouse_scans,1167889,29736,Quarantine and exclusion of desynchronized scan clock pulses,1138153,29736,Terminal scanner desynchronization timestamp reset to epoch default

@@ -1,0 +1,133 @@
+route_id,origin_hub_id,destination_hub_id,distance_km,planned_transit_hours,route_category,toll_plazas
+R_DKN_HWH,HUB_DKN,HUB_HWH,21.8,0.75,Arterial Highway (NH16/Kona),0
+R_DKN_TRT,HUB_DKN,HUB_TRT,42.0,1.8,Arterial Highway (NH16/Kona),1
+R_DKN_DHU,HUB_DKN,HUB_DHU,33.6,1.27,Arterial Highway (NH16/Kona),0
+R_DKN_KSB,HUB_DKN,HUB_KSB,40.8,1.33,Arterial Highway (NH16/Kona),1
+R_DKN_SLK,HUB_DKN,HUB_SLK,37.2,1.62,Arterial Highway (NH16/Kona),1
+R_DKN_ALP,HUB_DKN,HUB_ALP,32.1,1.43,Arterial Highway (NH16/Kona),0
+R_DKN_BST,HUB_DKN,HUB_BST,39.9,1.47,Arterial Highway (NH16/Kona),1
+R_DKN_KLY,HUB_DKN,HUB_KLY,55.3,2.49,Arterial Highway (NH16/Kona),1
+R_DKN_HLD,HUB_DKN,HUB_HLD,109.8,3.89,Industrial Bypass / Port Link,1
+R_DKN_KNA,HUB_DKN,HUB_KNA,22.6,0.8,Arterial Highway (NH16/Kona),0
+R_DKN_CCU,HUB_DKN,HUB_CCU,34.1,1.09,Arterial Highway (NH16/Kona),0
+R_HWH_DKN,HUB_HWH,HUB_DKN,24.6,1.09,Arterial Highway (NH16/Kona),0
+R_HWH_TRT,HUB_HWH,HUB_TRT,24.2,0.85,Arterial Highway (NH16/Kona),0
+R_HWH_DHU,HUB_HWH,HUB_DHU,24.1,1.07,Arterial Highway (NH16/Kona),0
+R_HWH_KSB,HUB_HWH,HUB_KSB,35.1,1.22,Arterial Highway (NH16/Kona),1
+R_HWH_SLK,HUB_HWH,HUB_SLK,31.0,1.0,Arterial Highway (NH16/Kona),0
+R_HWH_ALP,HUB_HWH,HUB_ALP,25.2,0.81,Arterial Highway (NH16/Kona),0
+R_HWH_BST,HUB_HWH,HUB_BST,45.0,1.82,Arterial Highway (NH16/Kona),1
+R_HWH_KLY,HUB_HWH,HUB_KLY,75.5,3.39,Arterial Highway (NH16/Kona),1
+R_HWH_HLD,HUB_HWH,HUB_HLD,98.8,3.12,Industrial Bypass / Port Link,1
+R_HWH_KNA,HUB_HWH,HUB_KNA,12.0,0.75,Arterial Highway (NH16/Kona),0
+R_HWH_CCU,HUB_HWH,HUB_CCU,21.1,0.75,Arterial Highway (NH16/Kona),0
+R_TRT_DKN,HUB_TRT,HUB_DKN,35.8,1.19,Arterial Highway (NH16/Kona),1
+R_TRT_HWH,HUB_TRT,HUB_HWH,26.5,0.93,Arterial Highway (NH16/Kona),0
+R_TRT_DHU,HUB_TRT,HUB_DHU,25.6,1.03,Urban Core Arterial,0
+R_TRT_KSB,HUB_TRT,HUB_KSB,17.2,0.75,Urban Core Arterial,0
+R_TRT_SLK,HUB_TRT,HUB_SLK,34.3,1.2,Urban Core Arterial,0
+R_TRT_ALP,HUB_TRT,HUB_ALP,14.7,0.75,Urban Core Arterial,0
+R_TRT_BST,HUB_TRT,HUB_BST,52.7,1.94,Urban Core Arterial,1
+R_TRT_KLY,HUB_TRT,HUB_KLY,85.5,3.19,Urban Core Arterial,1
+R_TRT_HLD,HUB_TRT,HUB_HLD,85.7,3.21,Industrial Bypass / Port Link,1
+R_TRT_KNA,HUB_TRT,HUB_KNA,22.0,0.84,Arterial Highway (NH16/Kona),0
+R_TRT_CCU,HUB_TRT,HUB_CCU,19.0,0.75,Urban Core Arterial,0
+R_DHU_DKN,HUB_DHU,HUB_DKN,38.0,1.32,Arterial Highway (NH16/Kona),1
+R_DHU_HWH,HUB_DHU,HUB_HWH,17.2,0.75,Arterial Highway (NH16/Kona),0
+R_DHU_TRT,HUB_DHU,HUB_TRT,27.1,1.2,Urban Core Arterial,0
+R_DHU_KSB,HUB_DHU,HUB_KSB,33.3,1.43,Suburban Corridor,0
+R_DHU_SLK,HUB_DHU,HUB_SLK,47.6,1.5,Suburban Corridor,1
+R_DHU_ALP,HUB_DHU,HUB_ALP,27.0,1.02,Urban Core Arterial,0
+R_DHU_BST,HUB_DHU,HUB_BST,53.9,2.43,Suburban Corridor,1
+R_DHU_KLY,HUB_DHU,HUB_KLY,85.1,3.8,Suburban Corridor,1
+R_DHU_HLD,HUB_DHU,HUB_HLD,90.0,3.34,Industrial Bypass / Port Link,1
+R_DHU_KNA,HUB_DHU,HUB_KNA,29.4,1.21,Arterial Highway (NH16/Kona),0
+R_DHU_CCU,HUB_DHU,HUB_CCU,29.8,0.99,Urban Core Arterial,0
+R_KSB_DKN,HUB_KSB,HUB_DKN,42.6,1.7,Arterial Highway (NH16/Kona),1
+R_KSB_HWH,HUB_KSB,HUB_HWH,26.7,1.15,Arterial Highway (NH16/Kona),0
+R_KSB_TRT,HUB_KSB,HUB_TRT,23.9,1.01,Urban Core Arterial,0
+R_KSB_DHU,HUB_KSB,HUB_DHU,36.2,1.34,Suburban Corridor,1
+R_KSB_SLK,HUB_KSB,HUB_SLK,25.0,0.92,Suburban Corridor,0
+R_KSB_ALP,HUB_KSB,HUB_ALP,23.3,0.75,Urban Core Arterial,0
+R_KSB_BST,HUB_KSB,HUB_BST,38.6,1.64,Suburban Corridor,1
+R_KSB_KLY,HUB_KSB,HUB_KLY,83.0,3.31,Suburban Corridor,1
+R_KSB_HLD,HUB_KSB,HUB_HLD,86.2,3.0,Industrial Bypass / Port Link,1
+R_KSB_KNA,HUB_KSB,HUB_KNA,33.6,1.21,Arterial Highway (NH16/Kona),0
+R_KSB_CCU,HUB_KSB,HUB_CCU,14.5,0.75,Urban Core Arterial,0
+R_SLK_DKN,HUB_SLK,HUB_DKN,30.7,1.01,Arterial Highway (NH16/Kona),0
+R_SLK_HWH,HUB_SLK,HUB_HWH,30.9,1.02,Arterial Highway (NH16/Kona),0
+R_SLK_TRT,HUB_SLK,HUB_TRT,27.1,0.97,Urban Core Arterial,0
+R_SLK_DHU,HUB_SLK,HUB_DHU,40.7,1.5,Suburban Corridor,1
+R_SLK_KSB,HUB_SLK,HUB_KSB,17.7,0.75,Suburban Corridor,0
+R_SLK_ALP,HUB_SLK,HUB_ALP,23.4,0.8,Urban Core Arterial,0
+R_SLK_BST,HUB_SLK,HUB_BST,35.0,1.11,Suburban Corridor,0
+R_SLK_KLY,HUB_SLK,HUB_KLY,67.6,2.14,Suburban Corridor,1
+R_SLK_HLD,HUB_SLK,HUB_HLD,100.7,4.19,Industrial Bypass / Port Link,1
+R_SLK_KNA,HUB_SLK,HUB_KNA,32.2,1.28,Arterial Highway (NH16/Kona),0
+R_SLK_CCU,HUB_SLK,HUB_CCU,17.6,0.75,Urban Core Arterial,0
+R_ALP_DKN,HUB_ALP,HUB_DKN,38.6,1.56,Arterial Highway (NH16/Kona),1
+R_ALP_HWH,HUB_ALP,HUB_HWH,20.0,0.81,Arterial Highway (NH16/Kona),0
+R_ALP_TRT,HUB_ALP,HUB_TRT,12.3,0.75,Urban Core Arterial,0
+R_ALP_DHU,HUB_ALP,HUB_DHU,23.3,0.92,Urban Core Arterial,0
+R_ALP_KSB,HUB_ALP,HUB_KSB,22.1,0.78,Urban Core Arterial,0
+R_ALP_SLK,HUB_ALP,HUB_SLK,24.2,0.82,Urban Core Arterial,0
+R_ALP_BST,HUB_ALP,HUB_BST,44.7,1.69,Urban Core Arterial,1
+R_ALP_KLY,HUB_ALP,HUB_KLY,83.0,3.31,Urban Core Arterial,1
+R_ALP_HLD,HUB_ALP,HUB_HLD,83.3,3.46,Industrial Bypass / Port Link,1
+R_ALP_KNA,HUB_ALP,HUB_KNA,26.2,0.94,Arterial Highway (NH16/Kona),0
+R_ALP_CCU,HUB_ALP,HUB_CCU,15.3,0.75,Urban Core Arterial,0
+R_BST_DKN,HUB_BST,HUB_DKN,38.3,1.4,Arterial Highway (NH16/Kona),1
+R_BST_HWH,HUB_BST,HUB_HWH,49.7,1.68,Arterial Highway (NH16/Kona),1
+R_BST_TRT,HUB_BST,HUB_TRT,53.5,2.18,Urban Core Arterial,1
+R_BST_DHU,HUB_BST,HUB_DHU,60.3,2.16,Suburban Corridor,1
+R_BST_KSB,HUB_BST,HUB_KSB,46.5,1.66,Suburban Corridor,1
+R_BST_SLK,HUB_BST,HUB_SLK,35.1,1.2,Suburban Corridor,1
+R_BST_ALP,HUB_BST,HUB_ALP,43.5,1.94,Urban Core Arterial,1
+R_BST_KLY,HUB_BST,HUB_KLY,48.0,1.73,Suburban Corridor,1
+R_BST_HLD,HUB_BST,HUB_HLD,126.6,4.12,Industrial Bypass / Port Link,1
+R_BST_KNA,HUB_BST,HUB_KNA,42.4,1.68,Arterial Highway (NH16/Kona),1
+R_BST_CCU,HUB_BST,HUB_CCU,41.7,1.88,Urban Core Arterial,1
+R_KLY_DKN,HUB_KLY,HUB_DKN,59.4,2.16,Arterial Highway (NH16/Kona),1
+R_KLY_HWH,HUB_KLY,HUB_HWH,74.0,3.34,Arterial Highway (NH16/Kona),1
+R_KLY_TRT,HUB_KLY,HUB_TRT,82.3,3.02,Urban Core Arterial,1
+R_KLY_DHU,HUB_KLY,HUB_DHU,82.9,2.61,Suburban Corridor,1
+R_KLY_KSB,HUB_KLY,HUB_KSB,77.3,2.57,Suburban Corridor,1
+R_KLY_SLK,HUB_KLY,HUB_SLK,74.6,2.62,Suburban Corridor,1
+R_KLY_ALP,HUB_KLY,HUB_ALP,76.1,2.69,Urban Core Arterial,1
+R_KLY_BST,HUB_KLY,HUB_BST,45.1,1.48,Suburban Corridor,1
+R_KLY_HLD,HUB_KLY,HUB_HLD,158.5,5.93,Industrial Bypass / Port Link,1
+R_KLY_KNA,HUB_KLY,HUB_KNA,64.6,2.77,Arterial Highway (NH16/Kona),1
+R_KLY_CCU,HUB_KLY,HUB_CCU,75.5,2.68,Urban Core Arterial,1
+R_HLD_DKN,HUB_HLD,HUB_DKN,103.1,4.52,Industrial Bypass / Port Link,1
+R_HLD_HWH,HUB_HLD,HUB_HWH,96.2,3.76,Industrial Bypass / Port Link,1
+R_HLD_TRT,HUB_HLD,HUB_TRT,79.8,3.55,Industrial Bypass / Port Link,1
+R_HLD_DHU,HUB_HLD,HUB_DHU,88.3,3.58,Industrial Bypass / Port Link,1
+R_HLD_KSB,HUB_HLD,HUB_KSB,88.8,3.48,Industrial Bypass / Port Link,1
+R_HLD_SLK,HUB_HLD,HUB_SLK,97.6,3.74,Industrial Bypass / Port Link,1
+R_HLD_ALP,HUB_HLD,HUB_ALP,83.7,3.18,Industrial Bypass / Port Link,1
+R_HLD_BST,HUB_HLD,HUB_BST,125.1,3.99,Industrial Bypass / Port Link,1
+R_HLD_KLY,HUB_HLD,HUB_KLY,152.5,5.84,Industrial Bypass / Port Link,1
+R_HLD_KNA,HUB_HLD,HUB_KNA,101.0,3.27,Industrial Bypass / Port Link,1
+R_HLD_CCU,HUB_HLD,HUB_CCU,95.7,3.74,Industrial Bypass / Port Link,1
+R_KNA_DKN,HUB_KNA,HUB_DKN,22.9,0.78,Arterial Highway (NH16/Kona),0
+R_KNA_HWH,HUB_KNA,HUB_HWH,12.8,0.75,Arterial Highway (NH16/Kona),0
+R_KNA_TRT,HUB_KNA,HUB_TRT,22.2,0.8,Arterial Highway (NH16/Kona),0
+R_KNA_DHU,HUB_KNA,HUB_DHU,22.9,0.75,Arterial Highway (NH16/Kona),0
+R_KNA_KSB,HUB_KNA,HUB_KSB,28.6,0.98,Arterial Highway (NH16/Kona),0
+R_KNA_SLK,HUB_KNA,HUB_SLK,25.5,0.89,Arterial Highway (NH16/Kona),0
+R_KNA_ALP,HUB_KNA,HUB_ALP,18.9,0.75,Arterial Highway (NH16/Kona),0
+R_KNA_BST,HUB_KNA,HUB_BST,40.1,1.71,Arterial Highway (NH16/Kona),1
+R_KNA_KLY,HUB_KNA,HUB_KLY,68.6,2.41,Arterial Highway (NH16/Kona),1
+R_KNA_HLD,HUB_KNA,HUB_HLD,99.1,3.43,Industrial Bypass / Port Link,1
+R_KNA_CCU,HUB_KNA,HUB_CCU,21.1,0.84,Arterial Highway (NH16/Kona),0
+R_CCU_DKN,HUB_CCU,HUB_DKN,27.4,0.96,Arterial Highway (NH16/Kona),0
+R_CCU_HWH,HUB_CCU,HUB_HWH,23.5,0.91,Arterial Highway (NH16/Kona),0
+R_CCU_TRT,HUB_CCU,HUB_TRT,26.9,0.99,Urban Core Arterial,0
+R_CCU_DHU,HUB_CCU,HUB_DHU,31.5,1.13,Urban Core Arterial,0
+R_CCU_KSB,HUB_CCU,HUB_KSB,13.9,0.75,Urban Core Arterial,0
+R_CCU_SLK,HUB_CCU,HUB_SLK,21.6,0.75,Urban Core Arterial,0
+R_CCU_ALP,HUB_CCU,HUB_ALP,23.7,0.89,Urban Core Arterial,0
+R_CCU_BST,HUB_CCU,HUB_BST,36.0,1.52,Urban Core Arterial,1
+R_CCU_KLY,HUB_CCU,HUB_KLY,70.0,2.31,Urban Core Arterial,1
+R_CCU_HLD,HUB_CCU,HUB_HLD,99.6,3.36,Industrial Bypass / Port Link,1
+R_CCU_KNA,HUB_CCU,HUB_KNA,17.6,0.75,Arterial Highway (NH16/Kona),0

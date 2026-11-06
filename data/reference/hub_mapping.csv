@@ -1,0 +1,13 @@
+old_hub_id,old_hub_name,new_hub_id,new_hub_name,effective_date,mapping_status
+HUB_KNA,Kona Expressway Transit Hub,HUB_KEX,Kona Express Highway Logistics Center,2024-07-01,Active
+HUB_SLK,Salt Lake Sector V Hub,HUB_NWN,New Town Rajarhat E-Commerce Terminal,2024-07-01,Active
+HUB_HLD_PORT,Haldia Port Feeder Depot Old,HUB_HLD,Haldia Port Feeder Depot,2024-04-01,Active
+HUB_DKN,Dankuni Freight Terminal,HUB_DKN,Dankuni Multi-Modal Freight Terminal,2024-01-01,Unchanged
+HUB_HWH,Howrah Logistics Park,HUB_HWH,Howrah Integrated Logistics Park,2024-01-01,Unchanged
+HUB_TRT,Taratala Central Hub,HUB_TRT,Taratala Industrial Logistics Hub,2024-01-01,Unchanged
+HUB_DHU,Dhulagarh Truck Terminal,HUB_DHU,Dhulagarh Heavy Freight Terminal,2024-01-01,Unchanged
+HUB_KSB,Kasba Regional Depot,HUB_KSB,Kasba Regional Distribution Depot,2024-01-01,Unchanged
+HUB_ALP,Alipore West Terminal,HUB_ALP,Alipore Central West Terminal,2024-01-01,Unchanged
+HUB_BST,Barasat North Gateway,HUB_BST,Barasat North Freight Gateway,2024-01-01,Unchanged
+HUB_KLY,Kalyani Industrial Depot,HUB_KLY,Kalyani Bulk Industrial Depot,2024-01-01,Unchanged
+HUB_CCU,Central Kolkata Sealdah Hub,HUB_CCU,Kolkata Central Rail-Road Depot,2024-01-01,Unchanged

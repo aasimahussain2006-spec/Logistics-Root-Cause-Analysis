@@ -1,0 +1,13 @@
+hub_id,hub_name,zone,latitude,longitude,hub_type,capacity_per_day
+HUB_DKN,Dankuni Freight Terminal,Northwest Industrial Corridor,22.6865,88.2917,Mega Freight Hub,8500
+HUB_HWH,Howrah Logistics Park,West Rail-Road Junction,22.5958,88.2636,Container & Express Hub,7500
+HUB_TRT,Taratala Central Hub,South Kolkata Industrial,22.505,88.3075,Urban Distribution Hub,6500
+HUB_DHU,Dhulagarh Truck Terminal,Southwest NH16 Corridor,22.5539,88.1965,Heavy Freight Depot,7000
+HUB_KSB,Kasba Regional Depot,East Kolkata Urban,22.5168,88.3846,Retail & Parcel Hub,4500
+HUB_SLK,Salt Lake Sector V Hub,East Kolkata IT Corridor,22.5769,88.4339,E-Commerce Tech Depot,5500
+HUB_ALP,Alipore West Terminal,Central South Gateway,22.528,88.324,Commercial Freight Depot,4000
+HUB_BST,Barasat North Gateway,North 24 Parganas Arterial,22.7214,88.4816,Regional Gateway,4500
+HUB_KLY,Kalyani Industrial Depot,Nadia Industrial Link,22.9751,88.4345,Bulk Storage & Transit,4000
+HUB_HLD,Haldia Port Feeder Depot,South Coastal Link,22.0644,88.07,Port Container Link,5000
+HUB_KNA,Kona Expressway Transit Hub,West Highway Corridor,22.61,88.29,Transit Cross-Dock,6000
+HUB_CCU,Central Kolkata Sealdah Hub,Urban Core Central,22.5697,88.3697,Urban Consolidation Center,5000

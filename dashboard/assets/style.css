@@ -1,0 +1,70 @@
+/* Kolkata Freight Logistics Intelligence - Corporate Theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Metric KPI Cards */
+.kpi-card {
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    border-radius: 10px;
+    padding: 16px 20px;
+    border-left: 5px solid #1B365D;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    margin-bottom: 12px;
+}
+
+.kpi-card-danger {
+    border-left-color: #D9534F;
+}
+
+.kpi-card-success {
+    border-left-color: #28A745;
+}
+
+.kpi-card-warning {
+    border-left-color: #D99B26;
+}
+
+.kpi-title {
+    font-size: 0.85rem;
+    color: #6C757D;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+}
+
+.kpi-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #1B365D;
+    margin-bottom: 2px;
+}
+
+.kpi-delta {
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.kpi-delta-down {
+    color: #D9534F;
+}
+
+.kpi-delta-up {
+    color: #28A745;
+}
+
+/* Synthetic Data Banner */
+.synthetic-banner {
+    background-color: #FFF3CD;
+    color: #856404;
+    border-left: 4px solid #FFEBAA;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    margin-bottom: 15px;
+}
+
